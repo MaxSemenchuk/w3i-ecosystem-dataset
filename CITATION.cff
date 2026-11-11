@@ -9,4 +9,5 @@ authors:
 license: CC-BY-4.0
 version: 1.0.0
 keywords: [web3, blockchain, ecosystem mapping, network analysis, Ukraine, open data]
-# doi: add after the Zenodo record is created
+doi: 10.5281/zenodo.24141727
+repository-code: "https://github.com/MaxSemenchuk/w3i-ecosystem-dataset"

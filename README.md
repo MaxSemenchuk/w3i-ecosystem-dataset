@@ -38,4 +38,4 @@ This is the network **visible to W3I**, built from forums, programmes and partne
 
 ## Cite
 
-See [CITATION.cff](CITATION.cff). Data: [CC BY 4.0](LICENSE). Code in `analysis/`: MIT ([LICENSE-CODE](LICENSE-CODE)).
+Archived on Zenodo: [10.5281/zenodo.24141727](https://doi.org/10.5281/zenodo.24141727) (always resolves to the latest version; version 1.0.0 is [10.5281/zenodo.24141728](https://doi.org/10.5281/zenodo.24141728)). See also [CITATION.cff](CITATION.cff). Data: [CC BY 4.0](LICENSE). Code in `analysis/`: MIT ([LICENSE-CODE](LICENSE-CODE)).

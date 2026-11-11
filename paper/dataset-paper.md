@@ -116,7 +116,7 @@ Nothing in the schema is specific to Ukraine. A country observatory needs the sa
 
 ## 7. Availability
 
-The dataset is archived on Zenodo (DOI assigned at publication) and mirrored as a source repository. Licence: CC BY 4.0 for the data, MIT for the code in `analysis/`. New releases will be versioned; the working database remains the source of truth.
+The dataset is archived on Zenodo (https://doi.org/10.5281/zenodo.24141727; version 1.0.0: https://doi.org/10.5281/zenodo.24141728) and mirrored as a source repository (https://github.com/MaxSemenchuk/w3i-ecosystem-dataset). Licence: CC BY 4.0 for the data, MIT for the code in `analysis/`. New releases will be versioned; the working database remains the source of truth.
 
 ## 8. Ethics statement
 
