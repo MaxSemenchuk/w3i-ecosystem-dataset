@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "W3I Ecosystem Dataset: a relational map of Ukraine's Web3, academic and public-sector network"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Semenchuk
+    given-names: Max
+    affiliation: "Web3 Institute"
+license: CC-BY-4.0
+version: 1.0.0
+keywords: [web3, blockchain, ecosystem mapping, network analysis, Ukraine, open data]
+# doi: add after the Zenodo record is created

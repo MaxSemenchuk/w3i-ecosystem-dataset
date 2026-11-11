@@ -1,0 +1,8816 @@
+[
+  {
+    "id": 1,
+    "name": "First NFT Agency",
+    "sector": "Developers",
+    "country": null,
+    "website": "https://www.1nft.agency/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 2,
+    "name": "Bitmex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitmex.com/app/register",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 3,
+    "name": "Incrypted",
+    "sector": "Media",
+    "country": null,
+    "website": "https://incrypted.com/",
+    "aliases": [
+      "Інкріптед"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 4,
+    "name": "AUSTRAC",
+    "sector": "Gov Bodies",
+    "country": "Australia",
+    "website": "https://www.austrac.gov.au/",
+    "aliases": [
+      "Australian Transaction Reports and Analysis Centre"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 5,
+    "name": "Global Business for Ukraine (GB4U)",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://www.gb4u.org/",
+    "aliases": [
+      "GB4U",
+      "Global Business for Ukraine"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 6,
+    "name": "Aragon",
+    "sector": "Products",
+    "country": null,
+    "website": "https://aragon.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 7,
+    "name": "Cambridge Centre for Alternative Finance (CJBS)",
+    "sector": "Hub",
+    "country": "Canada",
+    "website": null,
+    "aliases": [
+      "CCAF",
+      "Cambridge Centre for Alternative Finance"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 9,
+    "name": "The Royal United Services Institute",
+    "sector": "Hub",
+    "country": "UK",
+    "website": "https://www.rusi.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 10,
+    "name": "Nervos Protocol",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://www.nervos.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 11,
+    "name": "Optimism Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://www.optimism.io/",
+    "aliases": [
+      "OP Foundation",
+      "Optimism"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 12,
+    "name": "Cofacts",
+    "sector": "Hub",
+    "country": "Taiwan",
+    "website": "https://en.cofacts.tw/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 13,
+    "name": "Cryptodealers",
+    "sector": "Media",
+    "country": "Hong Kong",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 14,
+    "name": "Europol",
+    "sector": "International Regulator",
+    "country": "Netherlands",
+    "website": "https://www.europol.europa.eu/",
+    "aliases": [
+      "European Union Agency for Law Enforcement Cooperation"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 15,
+    "name": "Tomahawk Venture",
+    "sector": "Investments",
+    "country": "UK",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dfinity",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://dfinity.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 17,
+    "name": "dfinity",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://dfinity.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 18,
+    "name": "Liechtenstein",
+    "sector": "Gov Bodies",
+    "country": "Liechtenstein",
+    "website": "https://www.liechtenstein.li/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 19,
+    "name": "Office for Financial Market Innovation",
+    "sector": "Gov Bodies",
+    "country": "Liechtenstein",
+    "website": "https://impuls-liechtenstein.li/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 20,
+    "name": "University of Zurich - Blockchain Centre",
+    "sector": "Academy",
+    "country": "Switzerland",
+    "website": null,
+    "aliases": [
+      "UZH Blockchain Centre"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 21,
+    "name": "Linux Foundation",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://www.linuxfoundation.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 22,
+    "name": "Ayra Association",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://ayra.forum/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 23,
+    "name": "1991 Ventures",
+    "sector": "Investments",
+    "country": "United Kingdom",
+    "website": "https://www.1991.vc/",
+    "aliases": [
+      "1991 Open Data Incubator",
+      "1991 Інкубатор відкритих даних"
+    ],
+    "description": "UK-based, FCA-regulated £15M seed fund investing up to £400,000 in early-stage startups from CEE and Ukraine that are rebuilding Europe's tech sector across its most strategic industries like security, defense, AI infrastructure, fintech, logistics, energy, and healthcare.",
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 24,
+    "name": "1991 Accelerator",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": "https://www.1991.vc/accelerator/en/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 25,
+    "name": "KuCoin Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.kucoin.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 26,
+    "name": "gateio",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://gate.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 27,
+    "name": "Web3 Institute",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "W3i",
+      "W3I",
+      "Веб3 Інститут",
+      "Веб3 Институт"
+    ],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 28,
+    "name": "United Nations Joint Staff Pension Fund",
+    "sector": "Gov Bodies",
+    "country": "France",
+    "website": "https://www.unjspf.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 29,
+    "name": "Bitzlato",
+    "sector": "Products",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 30,
+    "name": "UVCA",
+    "sector": "Hub",
+    "country": null,
+    "website": "http://www.uvca.eu/",
+    "aliases": [
+      "Ukrainian Venture Capital Association",
+      "Українська асоціація венчурного капіталу"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 31,
+    "name": "Beeminer",
+    "sector": "Mining",
+    "country": null,
+    "website": "https://beeminergroup.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 32,
+    "name": "Consensys",
+    "sector": "Products",
+    "country": null,
+    "website": "https://consensys.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 33,
+    "name": "IEEE",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://www.ieee.org/",
+    "aliases": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 34,
+    "name": "ABC Research",
+    "sector": "Products",
+    "country": "Austria",
+    "website": "https://abc-research.at/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 35,
+    "name": "Coinbase",
+    "sector": "CEX",
+    "country": "USA",
+    "website": "https://www.coinbase.com/",
+    "aliases": [
+      "Коінбейс"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 36,
+    "name": "BecauseWhyNot Group",
+    "sector": "Products",
+    "country": null,
+    "website": "https://becausewhynot.dev/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 37,
+    "name": "Cardano Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": "https://cardanofoundation.org/",
+    "aliases": [
+      "Cardano",
+      "CF"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 38,
+    "name": "Manimama",
+    "sector": "Legal",
+    "country": null,
+    "website": "https://manimama.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 39,
+    "name": "PwC",
+    "sector": "Products",
+    "country": "Switzerland",
+    "website": "https://www.pwc.com/",
+    "aliases": [
+      "PricewaterhouseCoopers"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 40,
+    "name": "WhiteBit",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://whitebit.com/",
+    "aliases": [
+      "Вайтбіт"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 41,
+    "name": "RadicalxChange",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://www.radicalxchange.org/",
+    "aliases": [
+      "RxC"
+    ],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Giveth",
+    "sector": "Products",
+    "country": null,
+    "website": "https://giveth.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 43,
+    "name": "Zokyo",
+    "sector": "Products",
+    "country": null,
+    "website": "http://zokyo.io",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 44,
+    "name": "global-hgroup",
+    "sector": "CEX",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 45,
+    "name": "WOO Network",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://x.woo.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 46,
+    "name": "USAID",
+    "sector": "Donor",
+    "country": "USA",
+    "website": "https://www.usaid.gov/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 48,
+    "name": "Swiss Agency for Development and Cooperation",
+    "sector": "Gov Bodies",
+    "country": "Switzerland",
+    "website": "https://www.eda.admin.ch/eda/en/fdfa/fdfa/organisation-fdfa/directorates-divisions/sdc.html",
+    "aliases": [
+      "SDC",
+      "SECO"
+    ],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Juscutum",
+    "sector": "Legal",
+    "country": null,
+    "website": "https://juscutum.com/",
+    "aliases": [
+      "Юскутум"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 50,
+    "name": "Binance",
+    "sector": "CEX",
+    "country": "USA",
+    "website": "https://www.binance.com/",
+    "aliases": [
+      "Бінанс"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 51,
+    "name": "Aztec Protocol",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://aztec.network/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 53,
+    "name": "Gnosis Safe",
+    "sector": "Products",
+    "country": null,
+    "website": "safe.global",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 54,
+    "name": "Swiss NFT Association",
+    "sector": "Hub",
+    "country": "Switzerland",
+    "website": "https://www.swissnftassociation.ch/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 55,
+    "name": "Filecoin Foundation for the Decentralized Web",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://ffdweb.org/",
+    "aliases": [
+      "FFDW",
+      "Filecoin Foundation"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 56,
+    "name": "IFRS consultancy",
+    "sector": "Expert",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 57,
+    "name": "Ethereum Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://ethereum.org/",
+    "aliases": [
+      "EF"
+    ],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dutch Blockchain Coalition",
+    "sector": "Hub",
+    "country": "Netherlands",
+    "website": "https://dutchblockchaincoalition.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 59,
+    "name": "Lazarski University",
+    "sector": "Academy",
+    "country": "Poland",
+    "website": "https://www.lazarski.pl/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 61,
+    "name": "Bybit",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bybit.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 62,
+    "name": "Taiwan Parliament",
+    "sector": "Gov Bodies",
+    "country": "Taiwan",
+    "website": "https://www.ly.gov.tw/EngPages/EngTopicList.aspx?nodeid=45579&idx=10",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Human Edge Capital",
+    "sector": "Investments",
+    "country": "India",
+    "website": "https://humanedgecapital.in/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Polygon",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 65,
+    "name": "zapper.fi",
+    "sector": "Products",
+    "country": null,
+    "website": "zapper.fi",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 66,
+    "name": "ZHAW - School of Management",
+    "sector": "Expert",
+    "country": "Switzerland",
+    "website": "https://www.zhaw.ch/en/sml",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 67,
+    "name": "Government of Switzerland",
+    "sector": "Donor",
+    "country": "Switzerland",
+    "website": "https://www.eda.admin.ch/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 68,
+    "name": "European Crypto Initiative",
+    "sector": "Hub",
+    "country": "USA",
+    "website": "https://eu.ci/",
+    "aliases": [
+      "EUCI"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 70,
+    "name": "HAPI",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": "https://hapi.dev/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 71,
+    "name": "MIT DesignX",
+    "sector": "Expert",
+    "country": "USA",
+    "website": "https://designx.mit.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 73,
+    "name": "enoughtea.com",
+    "sector": "Media",
+    "country": null,
+    "website": "enoughtea.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 74,
+    "name": "EU4Digital",
+    "sector": "Donor",
+    "country": null,
+    "website": "https://eufordigital.eu/",
+    "aliases": [
+      "EU4Digital Facility"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 75,
+    "name": "Chainalysis",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.chainalysis.com/",
+    "aliases": [
+      "Чейналізіс"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 76,
+    "name": "Peer to Peer Commons",
+    "sector": "Expert",
+    "country": null,
+    "website": "https://blog.p2pfoundation.net/tag/commons-2/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 77,
+    "name": "Bayshore Global",
+    "sector": "Donor",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 78,
+    "name": "SPRIND",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://www.sprind.org/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Wirex",
+    "sector": "Products",
+    "country": null,
+    "website": "https://wirexapp.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 80,
+    "name": "AML.bot",
+    "sector": "Products",
+    "country": null,
+    "website": "https://amlbot.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 81,
+    "name": "Privado ID",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.privado.id/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 82,
+    "name": "Kitsoft",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://kitsoft.ua/projects/online-platform-government-grant-programs",
+    "aliases": [
+      "Кітсофт"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 84,
+    "name": "Virtual Assets of Ukraine",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://virtualassets.org.ua/",
+    "aliases": [
+      "ВАУ",
+      "VAU",
+      "Віртуальні Активи України",
+      "ГС «Віртуальні активи України»"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 85,
+    "name": "UNODC",
+    "sector": "International Regulator",
+    "country": "USA",
+    "website": "https://www.unodc.org/",
+    "aliases": [
+      "United Nations Office on Drugs and Crime"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 86,
+    "name": "Ernst & Young",
+    "sector": "Products",
+    "country": "UK",
+    "website": "https://www.ey.com/en_sg",
+    "aliases": [
+      "EY",
+      "Ернст енд Янг"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 87,
+    "name": "Cointelegraph",
+    "sector": "Media",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 88,
+    "name": "Hackathonhub",
+    "sector": "Products",
+    "country": "India",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 89,
+    "name": "a16z / Crypto",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://a16zcrypto.com/",
+    "aliases": [
+      "a16z",
+      "Andreessen Horowitz"
+    ],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 90,
+    "name": "University of York",
+    "sector": "Academy",
+    "country": "UK",
+    "website": "https://www.york.ac.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 91,
+    "name": "University of Washington",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.washington.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 92,
+    "name": "Huobi",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.huobi.co.jp/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 93,
+    "name": "Council of Europe",
+    "sector": "Gov Bodies",
+    "country": "France",
+    "website": "https://www.coe.int/en/web/portal",
+    "aliases": [
+      "Рада Європи"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 94,
+    "name": "ZkSync",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://zksync.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 95,
+    "name": "Limitless Network",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://limitless.network/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 96,
+    "name": "DraperDragon Fund",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://draper-dragon-4dedd5.webflow.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 97,
+    "name": "FMA (Financial Market Authority) of Liechtenstein",
+    "sector": "International Regulator",
+    "country": "Liechtenstein",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 98,
+    "name": "Kyiv Ethereum Community",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://kyivethereum.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 99,
+    "name": "Stobox",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.stobox.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 100,
+    "name": "Intelmax Management Consulting",
+    "sector": "Products",
+    "country": null,
+    "website": "http://www.intelmax-ip.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 101,
+    "name": "XT Labs",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.xt.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 103,
+    "name": "Parity / Polkadot / Web3 foundation",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 104,
+    "name": "MVST MG",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://mvstmg.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Asters",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "https://www.astersonline.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 106,
+    "name": "Gauntlet",
+    "sector": "Finance",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 107,
+    "name": "GREM Global Real Estate Market platform",
+    "sector": "Products",
+    "country": null,
+    "website": "https://grem.capital/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 109,
+    "name": "National Technical University of Ukraine",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kpi.ua/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 110,
+    "name": "LightLink",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://lightlink.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 111,
+    "name": "Dmarket",
+    "sector": "Products",
+    "country": null,
+    "website": "https://dmarket.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 112,
+    "name": "Станція Цифрової Енергії",
+    "sector": "Mining",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Stantsiia Tsyfrovoi Enerhii"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 113,
+    "name": "GIZ",
+    "sector": "Donor",
+    "country": "Germany",
+    "website": "https://www.giz.de/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 114,
+    "name": "KuCoin Labs",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.kucoin.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 115,
+    "name": "crypto.com",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://crypto.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 116,
+    "name": "Matter Labs",
+    "sector": "Products",
+    "country": null,
+    "website": "https://matter-labs.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 117,
+    "name": "Empire State Capital Partners",
+    "sector": "Investments",
+    "country": null,
+    "website": "empirestatecap.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Glorymine",
+    "sector": "Mining",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 119,
+    "name": "ВАФК Всеукраїнська асоціація фінансових компаній",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://vafk.org.ua/",
+    "aliases": [
+      "VAFK Vseukrainska asotsiatsiia finansovykh kompanii"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 120,
+    "name": "Visa",
+    "sector": "Finance",
+    "country": "USA",
+    "website": "https://evisa.imigrasi.go.id/",
+    "aliases": [
+      "Visa Inc."
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 121,
+    "name": "Distributed Lab",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 122,
+    "name": "Украінська міжбанківська валютна біржа",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://www.uicegroup.com/",
+    "aliases": [
+      "Ukrainska mizhbankivska valiutna birzha"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 123,
+    "name": "Департамент кіберполіції",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://cyberpolice.gov.ua/",
+    "aliases": [
+      "Departament kiberpolitsii",
+      "Cyberpolice"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 124,
+    "name": "CryptoArt",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://cryptoart.com/pages/contact",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Асоціація українських банків",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "aub.org.ua",
+    "aliases": [
+      "Asotsiatsiia ukrainskykh bankiv"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 126,
+    "name": "Міністерство фінансів",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mof.gov.ua/en/",
+    "aliases": [
+      "Ministerstvo finansiv",
+      "Минфин"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 127,
+    "name": "AVentures",
+    "sector": "Investments",
+    "country": "France",
+    "website": "https://www.oc-aventures.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Investudio",
+    "sector": "Investments",
+    "country": null,
+    "website": "http://investudio.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Value Tokenization Platform",
+    "sector": "Products",
+    "country": "Estonia",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 130,
+    "name": "BRDO",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "brdo.com.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 131,
+    "name": "Національний банк України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://bank.gov.ua/",
+    "aliases": [
+      "Natsionalnyi bank Ukrainy",
+      "National Bank of Ukraine"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 132,
+    "name": "Міноборони",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mod.gov.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 133,
+    "name": "igriks",
+    "sector": "Mining",
+    "country": null,
+    "website": "http://igriks.com.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 134,
+    "name": "BlockchainArt",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 135,
+    "name": "Trustee",
+    "sector": "Products",
+    "country": null,
+    "website": "https://trustee.deals/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 136,
+    "name": "Zerion",
+    "sector": "Products",
+    "country": null,
+    "website": "https://zerion.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 137,
+    "name": "Конкорд",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://concord.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 138,
+    "name": "Exonum",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://exonum.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 139,
+    "name": "Tascombank",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://tascombank.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 140,
+    "name": "Фонд Східна Европа",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Fond Skhidna Evropa"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 141,
+    "name": "BTC Alpha",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://btc-alpha.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 142,
+    "name": "Bitfury",
+    "sector": "Products",
+    "country": null,
+    "website": "https://bitfury.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 143,
+    "name": "IMF",
+    "sector": "Gov Bodies",
+    "country": "USA",
+    "website": "https://www.imf.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 144,
+    "name": "Quantum Attorneys",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "https://quantum-attorneys.com/about",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 145,
+    "name": "Державна служба фінансового моніторингу",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://fiu.gov.ua/",
+    "aliases": [
+      "Держфінмоніторинг",
+      "ДСФМ",
+      "Фінмоніторинг",
+      "State Financial Monitoring Service",
+      "Derzhavna sluzhba finansovoho monitorynhu"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 146,
+    "name": "СБУ",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 147,
+    "name": "ПП Європейська Солідарність",
+    "sector": "Expert",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "PP Yevropeiska Solidarnist"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 148,
+    "name": "Українська асоціація фінтех та інноваційних компаній",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "tac.ac",
+    "aliases": [
+      "Ukrainska asotsiatsiia fintekh ta innovatsiinykh kompanii"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 149,
+    "name": "Datafeed",
+    "sector": "Investments",
+    "country": "India",
+    "website": "https://globaldatafeeds.in/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Boosty Labs",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://boostylabs.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 151,
+    "name": "Державне агенство розвитку туризму України",
+    "sector": "Expert",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Derzhavne ahenstvo rozvytku turyzmu Ukrainy"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 152,
+    "name": "Ukraine Economic Outlook #Economy",
+    "sector": "Expert",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 153,
+    "name": "EXANTE",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://exante.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 154,
+    "name": "DTA",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.dta.gov.au/",
+    "aliases": [
+      "Tapas"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 155,
+    "name": "РНБО",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.rnbo.gov.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 156,
+    "name": "Національна Асоціація Кібербезпеки",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://ncaua.com/",
+    "aliases": [
+      "Natsionalna Asotsiatsiia Kiberbezpeky"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 157,
+    "name": "Hacken",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://hacken.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 158,
+    "name": "Інвестфонд",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Levi9",
+    "sector": "Expert",
+    "country": "USA",
+    "website": "https://www.levi9.com/levi9-assets-app/terms-and-conditions/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 160,
+    "name": "Спецзв'язок",
+    "sector": "MinDigital",
+    "country": "Ukraine",
+    "website": "https://dpsz.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 162,
+    "name": "Axon Partners",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "https://axon.partners/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 163,
+    "name": "Remme",
+    "sector": "Products",
+    "country": null,
+    "website": "https://remme.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 164,
+    "name": "NEAR",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://near.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 165,
+    "name": "Smartlands Platform",
+    "sector": "Products",
+    "country": null,
+    "website": "smartlands.io",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 166,
+    "name": "Olshanski",
+    "sector": "Mining",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 167,
+    "name": "482.solutions",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://482.solutions/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 168,
+    "name": "Міністерство розвитку економіки",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://me.gov.ua/documents/detail?lang=uk-ua&id=5fa462a1-b263-4978-adb4-0d5c902e7502&title=istoriia",
+    "aliases": [
+      "Ministerstvo rozvytku ekonomiky"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 169,
+    "name": "Hodl Hodl",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://hodlhodl.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 170,
+    "name": "CoinsPaid",
+    "sector": "Products",
+    "country": null,
+    "website": "https://coinspaid.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 171,
+    "name": "Baker McKenzie",
+    "sector": "Legal",
+    "country": "USA",
+    "website": "https://www.bakermckenzie.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 172,
+    "name": "GEO Protocol / GEO Pay",
+    "sector": "Products",
+    "country": null,
+    "website": "https://geoprotocol.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 173,
+    "name": "НКЦПФР",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.nssmc.gov.ua/en/",
+    "aliases": [
+      "NSSMC",
+      "National Securities and Stock Market Commission",
+      "Національна комісія з цінних паперів та фондового ринку"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 174,
+    "name": "Vareger",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://www.vareger.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 175,
+    "name": "PmPartners",
+    "sector": "Products",
+    "country": "Spain",
+    "website": "https://pmpartners.es/en/budgeting/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 176,
+    "name": "АТ \"ДТЕК Одеські електромережі\"",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://www.dtek-oem.com.ua/ua",
+    "aliases": [
+      "AT \"DTEK Odeski elektromerezhi\""
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 177,
+    "name": "FinProf",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 178,
+    "name": "Криптоалкоголики",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Cryptoalcoholics"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 179,
+    "name": "Kyrrex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://kyrrex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 182,
+    "name": "Віцепрем’єр-міністр — міністр цифрової трансформації",
+    "sector": "MinDigital",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Vitseprem’ier-ministr — ministr tsyfrovoi transformatsii"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 184,
+    "name": "Українська Асоціація Платіжних Систем",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "uaps.com.ua",
+    "aliases": [
+      "Ukrainska Asotsiatsiia Platizhnykh System"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 185,
+    "name": "Міністерство енергетики та вугільної промисловості України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://zakon.rada.gov.ua/laws/main/o1056y1999?lang=en",
+    "aliases": [
+      "Ministerstvo enerhetyky ta vuhilnoi promyslovosti Ukrainy"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 186,
+    "name": "Райфайзен",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://www.url.kiev.ua/aval-8799.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 187,
+    "name": "Блокчейн Асоціація України",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "bau.ai",
+    "aliases": [
+      "Blokchein Asotsiatsiia Ukrainy",
+      "Blockchain Association"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 188,
+    "name": "АМКУ",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://amcu.gov.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 189,
+    "name": "cex.io",
+    "sector": "CEX",
+    "country": "Ukraine",
+    "website": "https://cex.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 190,
+    "name": "Harmony",
+    "sector": "L1/L2 Protocol",
+    "country": "India",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 191,
+    "name": "QPD",
+    "sector": "Investments",
+    "country": null,
+    "website": "qp.digital",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Swiss Embassy",
+    "sector": "Gov Bodies",
+    "country": "Switzerland",
+    "website": "https://www.eda.admin.ch/countries/philippines/en/home/representations/embassy.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 193,
+    "name": "Aequo",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "https://www.exaequo-official.com/?srsltid=AfmBOopKMNlby0PTA92whr_w-G1Fp78AxsdzJW0w1hHPVA2rdOJSlguG",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 194,
+    "name": "Monobank",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://monobank.ua/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 195,
+    "name": "SingularityU Kyiv",
+    "sector": "Expert",
+    "country": "Ukraine",
+    "website": "http://www.singularityukyiv.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 197,
+    "name": "EMA",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "ema.com.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 198,
+    "name": "Інвестиційна Група «УНІВЕР»",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": "https://univer.ua/",
+    "aliases": [
+      "Investytsiina Hrupa «UNIVER»"
+    ],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 199,
+    "name": "DLA Piper Ukraine",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "https://www.dlapiper.com/en-hk/people/b/bogachenko-pavlo",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 200,
+    "name": "НАЗК",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://public.nazk.gov.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 201,
+    "name": "ВНТУ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://vntu.edu.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 203,
+    "name": "GL protocol",
+    "sector": "Products",
+    "country": null,
+    "website": "https://glprotocol.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 204,
+    "name": "4irelabs",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://4irelabs.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 207,
+    "name": "Hotmine.io",
+    "sector": "Mining",
+    "country": "USA",
+    "website": "https://hotmine.io/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 208,
+    "name": "Dima-lawyer",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 210,
+    "name": "FSC",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://fsc.org/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 211,
+    "name": "Київська Школа Економіки",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kse.ua",
+    "aliases": [
+      "KSE",
+      "Kyiv School of Economics"
+    ],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Sansera",
+    "sector": "Products",
+    "country": null,
+    "website": "sansera.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 214,
+    "name": "Forklog Hub",
+    "sector": "Media",
+    "country": null,
+    "website": "https://hub.forklog.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 215,
+    "name": "Input Output HK / Cardano",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://forum.cardano.org/t/running-the-cardano-node-on-windows-howto/64975",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 216,
+    "name": "ПриватБанк",
+    "sector": "Finance",
+    "country": "Ukraine",
+    "website": "https://privatbank.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 217,
+    "name": "TAAS Fund",
+    "sector": "Investments",
+    "country": "UK",
+    "website": "https://taas.fund/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 218,
+    "name": "ДПС",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://tax.gov.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 219,
+    "name": "Альфа-Инвест",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": "https://apay.kiev.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Deloitte",
+    "sector": "Developers",
+    "country": "USA",
+    "website": "https://www.deloitte.com/global/en.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 222,
+    "name": "Everstake",
+    "sector": "L1/L2 Protocol",
+    "country": "Ukraine",
+    "website": "https://everstake.one/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 223,
+    "name": "Attic Lab",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://www.atticlab.in/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 224,
+    "name": "Monopay",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://monopay.com.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 226,
+    "name": "BlockScience",
+    "sector": "Expert",
+    "country": null,
+    "website": "https://block.science/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 227,
+    "name": "Асоціація АБУ. Райффайзен Банк Аваль",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Asotsiatsiia ABU. Raiffaizen Bank Aval"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 228,
+    "name": "exmo",
+    "sector": "CEX",
+    "country": "Ukraine",
+    "website": "https://exmo.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 229,
+    "name": "Технологічна Асоціація Криптобізнесу",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "tac.ac",
+    "aliases": [
+      "Tekhnolohichna Asotsiatsiia Kryptobiznesu"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 230,
+    "name": "Blockchain Lab",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://blockchainlab.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 231,
+    "name": "OSCE",
+    "sector": "Finance",
+    "country": null,
+    "website": "https://www.osce.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 232,
+    "name": "ДССЗЗІ",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 233,
+    "name": "CoinIndex Agency",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://coinindex.agency/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 234,
+    "name": "Security Services Group LLC",
+    "sector": "Developers",
+    "country": null,
+    "website": "ssg.systems",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 235,
+    "name": "АДВОКАТСЬКЕ ОБ'ЄДНАННЯ \"ЕС ЛОЄРС\"",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "ADVOKATSKE OB'IeDNANNIa \"ES LOIeRS\""
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 237,
+    "name": "Гражданская организация «Проф Фин Контроль Украины»",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Hrazhdanskaia orhanyzatsyia «Prof Fyn Kontrol Ukrayny»"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 241,
+    "name": "TA Ventures",
+    "sector": "Investments",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 242,
+    "name": "IT-Sources",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://globalitsources.com/our-story.php",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 243,
+    "name": "Niko Technologies OU",
+    "sector": "Developers",
+    "country": null,
+    "website": "niko-tech.eu",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 244,
+    "name": "0x",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://0x.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 246,
+    "name": "Aave",
+    "sector": "Products",
+    "country": null,
+    "website": "https://aave.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 247,
+    "name": "AAX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.aax.com/en-US/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 248,
+    "name": "AB Consulting",
+    "sector": "Developers",
+    "country": null,
+    "website": "https://abconsulting.io",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 249,
+    "name": "ACE",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.ace.io/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 250,
+    "name": "AEX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.aex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 251,
+    "name": "AIN",
+    "sector": "Media",
+    "country": "USA",
+    "website": "https://www.ainonline.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 252,
+    "name": "AlterDice",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://alterdice.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 253,
+    "name": "Ambisafe",
+    "sector": "Products",
+    "country": null,
+    "website": "https://ambisafe.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 254,
+    "name": "Anycash",
+    "sector": "Products",
+    "country": null,
+    "website": "https://any.cash/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 255,
+    "name": "ApolloX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.apollox.com/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 256,
+    "name": "APROBIT",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.aprobit.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 257,
+    "name": "Arbitrum",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://arbitrum.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 258,
+    "name": "Artis Turba",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://artisturba.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 259,
+    "name": "Aryana",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.aryana.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 260,
+    "name": "Arzinger",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": "arzinger.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 261,
+    "name": "ATAIX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://ataix.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 263,
+    "name": "Azbit",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://azbit.com/exchange",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 264,
+    "name": "Baker McKenzie - Kyiv",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 265,
+    "name": "BankCEX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bankcex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 266,
+    "name": "BDO Ukraine",
+    "sector": "Finance",
+    "country": null,
+    "website": "https://www.bdo.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 267,
+    "name": "Beaxy",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.beaxy.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 268,
+    "name": "Bexplus",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bexplus.com/ru/?utm_source=article&utm_medium=bytwork&utm_campaign=0911",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 269,
+    "name": "Bgogo",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bgogo.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 270,
+    "name": "Biconomy Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.biconomy.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 271,
+    "name": "Binance Turkey",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.trbinance.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 272,
+    "name": "Binaryx",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://app.binaryx.com/registration/bVy4Kj_Ecw243eIiyPhEJw",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 273,
+    "name": "BingX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bingx.com/en-us/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 274,
+    "name": "bit4you",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bit4you.io/our-markets",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 275,
+    "name": "Bitay",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitay.com/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 276,
+    "name": "Bitazza",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitazza.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 277,
+    "name": "Bitbns",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitbns.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 278,
+    "name": "Bitbuy",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitbuy.ca/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 279,
+    "name": "Bitci",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitci.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 283,
+    "name": "BITEXBOX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitexbook.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 284,
+    "name": "Bitexen",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitexen.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 285,
+    "name": "BITEXLIVE",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitexlive.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 286,
+    "name": "Bitfex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitfex.trade/ru/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 287,
+    "name": "Bitfinex",
+    "sector": "CEX",
+    "country": "USA",
+    "website": "https://www.bitfinex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 288,
+    "name": "Bitfront",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitfront.me/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 289,
+    "name": "Bitget",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitget.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 290,
+    "name": "BitGlobal",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitglobal.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 291,
+    "name": "Bithesap",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bithesap.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 292,
+    "name": "Bitmain",
+    "sector": "Mining",
+    "country": null,
+    "website": "https://www.bitmain.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 293,
+    "name": "Bitonic",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitonic.nl/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 294,
+    "name": "BitoPro",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bitopro.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 295,
+    "name": "Bitsten",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://exchange.bitsten.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 296,
+    "name": "BitStorage",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitstorage.finance/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 297,
+    "name": "Bittrex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://global.bittrex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 298,
+    "name": "BitTurk",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bitturk.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 299,
+    "name": "Bittylicious",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bittylicious.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 303,
+    "name": "Bityard",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bityard.com/?ru=Ynqqyr&f=BYTWORK",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 304,
+    "name": "bkex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bkex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 305,
+    "name": "BL3P",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://bl3p.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 306,
+    "name": "BQT",
+    "sector": "CEX",
+    "country": null,
+    "website": "http://bqtx.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 307,
+    "name": "BTC Markets",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://btcmarkets.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 309,
+    "name": "Bvnex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.bvnex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 311,
+    "name": "CBX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.cbx.one/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 312,
+    "name": "Celo",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://celo.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 313,
+    "name": "Chainlink",
+    "sector": "Products",
+    "country": null,
+    "website": "https://chain.link/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 314,
+    "name": "Chainsafe",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://blog.chainsafe.io/cryptocurrency/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 315,
+    "name": "Chiliz",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.chiliz.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 316,
+    "name": "Chromaway",
+    "sector": "L1/L2 Protocol",
+    "country": "Sweden",
+    "website": "https://blog.chromaway.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 317,
+    "name": "CIMA (Kayman Islands)",
+    "sector": "International Regulator",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 318,
+    "name": "CITEX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.citex.co.kr/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 319,
+    "name": "Codemotion",
+    "sector": "Developers",
+    "country": null,
+    "website": "https://www.codemotion.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 320,
+    "name": "CoinCasso",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://coincasso.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 321,
+    "name": "CoinCorner",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.coincorner.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 323,
+    "name": "Coindesk",
+    "sector": "Media",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 324,
+    "name": "CoinFalcon",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://coinfalcon.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 326,
+    "name": "Coingi",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://coingi.com/ru/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 327,
+    "name": "CoinLoan",
+    "sector": "Products",
+    "country": null,
+    "website": "https://coinloan.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 328,
+    "name": "Coinmarketcap",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 329,
+    "name": "CoinMetro",
+    "sector": "CEX",
+    "country": "Ukraine",
+    "website": "https://coinmetro.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 330,
+    "name": "Coinsbit",
+    "sector": "CEX",
+    "country": "Ukraine",
+    "website": "https://coinsbit.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 331,
+    "name": "Coinut",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://coinut.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 332,
+    "name": "CoinW",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.coinw.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 333,
+    "name": "Coinzo",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.coinzo.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 334,
+    "name": "College DAO",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://collegedao.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 335,
+    "name": "Corda / R3",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://r3.com/whats-new-in-corda/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 338,
+    "name": "Cryptolions",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://cryptolions.io/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 339,
+    "name": "Cryptology",
+    "sector": "Media",
+    "country": null,
+    "website": "https://cryptology.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 340,
+    "name": "CryptoMarket",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.cryptomkt.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 341,
+    "name": "Cryptonex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://cryptonex.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 342,
+    "name": "CSSF (Luxermbourg)",
+    "sector": "International Regulator",
+    "country": "Luxembourg",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 343,
+    "name": "CV Labs",
+    "sector": "Investments",
+    "country": "Switzerland",
+    "website": "https://www.cvlabs.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Dcoin",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.dcoin.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 346,
+    "name": "Decoin",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.decoin.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 347,
+    "name": "Deepcoin",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.deepcoin.com/cmc",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 348,
+    "name": "Delta Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.delta.exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 349,
+    "name": "Dex-Trade",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://dex-trade.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 350,
+    "name": "digitalexchange.id",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://digitalexchange.id/market",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 351,
+    "name": "DOU",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://dou.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 352,
+    "name": "DoubleTop",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://www.doubletop.io/doubletop-en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 353,
+    "name": "Dove Wallet",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://dovewallet.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 354,
+    "name": "DreamTeam",
+    "sector": "Products",
+    "country": null,
+    "website": "https://dreamteam.gg/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 357,
+    "name": "Ecxx",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.ecxx.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 358,
+    "name": "EDIN",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "edin.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 359,
+    "name": "Eleks",
+    "sector": "Developers",
+    "country": null,
+    "website": "https://eleks.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 360,
+    "name": "Emirex",
+    "sector": "CEX",
+    "country": null,
+    "website": "http://emirex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 361,
+    "name": "EQONEX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://eqonex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 362,
+    "name": "eToroX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.etoro.com/crypto/exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 363,
+    "name": "EU4PAR",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": "https://eu4par.eu/en/vacancies/analyst/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 364,
+    "name": "EUACI",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": "https://euaci.eu/en/about-programme/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 366,
+    "name": "EXIR",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.exir.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 368,
+    "name": "Exnomy",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.exnomy.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 370,
+    "name": "Fantom",
+    "sector": "Products",
+    "country": null,
+    "website": "https://fantom.foundation/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 371,
+    "name": "FarhadMarket (Exbito)",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://app.farhadmarket.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 372,
+    "name": "Felixo",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.felixo.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 373,
+    "name": "FIIAPP",
+    "sector": "Donor",
+    "country": "Spain",
+    "website": "https://www.fiap.gob.es/en/tag/acceso-a-la-informacion-2/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 375,
+    "name": "Finance UA",
+    "sector": "Media",
+    "country": null,
+    "website": "https://forum.finance.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 376,
+    "name": "Financial Intelligence Unit (Estonia)",
+    "sector": "International Regulator",
+    "country": "Estonia",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 377,
+    "name": "FinCEN (US)",
+    "sector": "International Regulator",
+    "country": "USA",
+    "website": "https://www.fincen.gov/boi-faqs",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 378,
+    "name": "FinexBox",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.finexbox.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 380,
+    "name": "FINTRAC (Canada)",
+    "sector": "International Regulator",
+    "country": "Canada",
+    "website": "https://www.canada.ca/en/financial-transactions-reports-analysis.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 381,
+    "name": "Firm24",
+    "sector": "Legal",
+    "country": "Netherlands",
+    "website": "https://www.firm24.com/en/incorporation-holding/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 382,
+    "name": "Flow",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "http://onflow.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 383,
+    "name": "Flybit",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://flybit.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 384,
+    "name": "FMFW.io",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://fmfw.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 385,
+    "name": "FOBLGATE",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.foblgate.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 386,
+    "name": "Folgory",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://folgory.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 387,
+    "name": "Forklog",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://forklog.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 388,
+    "name": "Free2ex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.free2ex.com/ru?agent=EXCHANGE",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 389,
+    "name": "FreiExchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://freiexchange.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 390,
+    "name": "Gardens",
+    "sector": "Products",
+    "country": null,
+    "website": "https://gardens.1hive.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 391,
+    "name": "Gatehub",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.gatehub.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 392,
+    "name": "GDAC",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.gdac.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 393,
+    "name": "Gemini",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://gemini.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 394,
+    "name": "GEN Ukraine",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://genukraine.com.ua/index.php/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 395,
+    "name": "GFSC (Gibraltar)",
+    "sector": "International Regulator",
+    "country": "Gibraltar",
+    "website": "https://www.fsc.gi/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 396,
+    "name": "Glo Dollar",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.glodollar.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 397,
+    "name": "Globe Derivative Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://globedx.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 401,
+    "name": "Hanbitco",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.hanbitco.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 402,
+    "name": "Hedera / HBAR Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": "Indonesia",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 403,
+    "name": "HitBTC",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://hitbtc.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 404,
+    "name": "HolyTransaction",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://holytransaction.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 405,
+    "name": "Horizon",
+    "sector": "Donor",
+    "country": "Netherlands",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 406,
+    "name": "Hotcoin Global",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.hotcoin.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 408,
+    "name": "IBM",
+    "sector": "Products",
+    "country": "Australia",
+    "website": "https://www.ibm.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 409,
+    "name": "Ideasoft",
+    "sector": "Developers",
+    "country": null,
+    "website": "https://ideasoft.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 410,
+    "name": "Igor Sikorsky Kyiv Polytechnic Institute",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kpi.ua/",
+    "aliases": [
+      "КПІ",
+      "KPI",
+      "НТУ \"КПІ ім. Ігоря Сікорського\"",
+      "Національний технічний університет України «Київський політехнічний інститут імені Ігоря Сікорського»"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 411,
+    "name": "Independent Reserve",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.independentreserve.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 412,
+    "name": "IndoEx",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://international.indoex.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 413,
+    "name": "Infrastructure Ventures",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://infrastructure.ventures/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Institute of Law, Technology & Innovation",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://ilti.com.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 416,
+    "name": "ITC",
+    "sector": "Media",
+    "country": "Japan",
+    "website": "https://itc-indonesia.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 417,
+    "name": "KI Decentralized GMBH",
+    "sector": "Products",
+    "country": "Germany",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 418,
+    "name": "KickEX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://kickex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 419,
+    "name": "Koinbazar",
+    "sector": "CEX",
+    "country": null,
+    "website": "http://koinbazar.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 420,
+    "name": "Kraken",
+    "sector": "CEX",
+    "country": "USA",
+    "website": "https://www.kraken.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 423,
+    "name": "Kyber Network",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://kyber.network/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 424,
+    "name": "LATOKEN",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://latoken.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 425,
+    "name": "LCX Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "http://exchange.lcx.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 426,
+    "name": "Leo gaming",
+    "sector": "Products",
+    "country": null,
+    "website": "https://leogaming.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 428,
+    "name": "Liga Tech",
+    "sector": "Media",
+    "country": null,
+    "website": "https://tech.liga.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 429,
+    "name": "LocalCryptos",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://localcryptos.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 430,
+    "name": "LocalTrade",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://localtrade.cc",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 431,
+    "name": "LTV Protocol",
+    "sector": "Products",
+    "country": null,
+    "website": "https://ltv.finance/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 432,
+    "name": "Luxsoft",
+    "sector": "Developers",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 433,
+    "name": "Lykke Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://trade.lykke.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 434,
+    "name": "Maker DAO",
+    "sector": "Products",
+    "country": null,
+    "website": "https://makerdao.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 435,
+    "name": "Malta Financial Services Authority",
+    "sector": "International Regulator",
+    "country": "Malta",
+    "website": "https://www.mfsa.mt/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 436,
+    "name": "MatrixPort",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.matrixport.com/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 437,
+    "name": "MC Today",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://mc.today/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 438,
+    "name": "MDI (Malta)",
+    "sector": "International Regulator",
+    "country": "Malta",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 439,
+    "name": "MetaMask",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://metamask.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 440,
+    "name": "Mexo Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.mexo.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 441,
+    "name": "Mind UA",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://mind.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 442,
+    "name": "Ministry of Digital Transformation",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://thedigital.gov.ua",
+    "aliases": [
+      "Мінцифра",
+      "Міністерство цифрової трансформації"
+    ],
+    "description": null,
+    "tag_ids": [
+      3,
+      55
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Namebase",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://namebase.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 444,
+    "name": "Narkasa",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://narkasa.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 445,
+    "name": "Nicosia",
+    "sector": "Hub",
+    "country": "Cyprus",
+    "website": "https://www.nicosia.org.cy/en-GB/home/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 446,
+    "name": "Nominex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://nominex.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 447,
+    "name": "Ocean Protocol",
+    "sector": "L1/L2 Protocol",
+    "country": "Singapore",
+    "website": "https://oceanprotocol.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 448,
+    "name": "okex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.okx.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 449,
+    "name": "Omgfin",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://omgfin.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 451,
+    "name": "P2PB2B",
+    "sector": "CEX",
+    "country": "Ukraine",
+    "website": "https://p2pb2b.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 452,
+    "name": "Pantera",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://pantera.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Paritex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.paritex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 454,
+    "name": "Parliamentary group \"Blockchain 4 Ukraine\"",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 455,
+    "name": "PayBito",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.paybito.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 456,
+    "name": "Payeer Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://payeer.com/ru/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 457,
+    "name": "Paymium",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.paymium.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 458,
+    "name": "Paytomat",
+    "sector": "Products",
+    "country": null,
+    "website": "https://paytomat.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 459,
+    "name": "Peanut Trade",
+    "sector": "Products",
+    "country": null,
+    "website": "https://peanut.trade/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 460,
+    "name": "Pionex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.pionex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 461,
+    "name": "Plurality",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://plurality.network/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Polyx",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://polyx.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 463,
+    "name": "PrimeBit",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://primebit.com",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 464,
+    "name": "ProBit Global",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.probit.com/en-us/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 465,
+    "name": "Propy",
+    "sector": "Products",
+    "country": null,
+    "website": "https://propy.com/home/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 466,
+    "name": "Rekeningku.com",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.rekeningku.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 467,
+    "name": "Resfinex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://resfinex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 468,
+    "name": "Ripio",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://exchange.ripio.com/app/trade/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 469,
+    "name": "RippleFox",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://ripplefox.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 470,
+    "name": "SafeTrade",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.safe.trade/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 471,
+    "name": "Satang Pro",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://satangcorp.com/exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 472,
+    "name": "SINEGY Marketplace",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://marketplace.sinegy.com/exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 473,
+    "name": "Snowball",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.snowball.money/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 474,
+    "name": "SoftServe",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://www.softserveinc.com/en-us",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 475,
+    "name": "Solana Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://solana.org/",
+    "aliases": [
+      "Solana",
+      "SOL"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 477,
+    "name": "Solus Group",
+    "sector": "Products",
+    "country": null,
+    "website": "https://solusgroup.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 479,
+    "name": "Stockpoint",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://stockpoint.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 480,
+    "name": "Stroom",
+    "sector": "Products",
+    "country": null,
+    "website": "https://stroom.network/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 483,
+    "name": "Tapas",
+    "sector": "Expert",
+    "country": "Ukraine",
+    "website": "https://tapas.org.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 484,
+    "name": "Tezos",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://tezos.com/visual-identity/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 485,
+    "name": "The Digital Europe Programme",
+    "sector": "Donor",
+    "country": null,
+    "website": "https://digital-strategy.ec.europa.eu/en/activities/digital-programme",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 487,
+    "name": "TimeX",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://timex.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 488,
+    "name": "TOKENCAN",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.tokencan.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 489,
+    "name": "Tokenize Xchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://tokenize.exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 490,
+    "name": "Tokenomy",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://tokenomy.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 491,
+    "name": "TokoCrypto",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.tokocrypto.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 492,
+    "name": "Tokpie",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://tokpie.io",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 494,
+    "name": "TON",
+    "sector": "L1/L2 Protocol",
+    "country": "Czech Republic",
+    "website": "https://ton.org/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 495,
+    "name": "Transparency International Ukraine",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://ti-ukraine.org/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 498,
+    "name": "UAHg",
+    "sector": "Products",
+    "country": null,
+    "website": "https://uahg.com.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 499,
+    "name": "UKAID",
+    "sector": "Donor",
+    "country": "UK",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 500,
+    "name": "Ukrainian Students for Freedom",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://studfreedom.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 501,
+    "name": "UMA",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 502,
+    "name": "UNDP",
+    "sector": "Donor",
+    "country": null,
+    "website": "https://www.undp.org/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 503,
+    "name": "Unocoin",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.unocoin.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 508,
+    "name": "USF",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://www.usf.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Utorg",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://utorg.pro/ru/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 510,
+    "name": "VALR",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.valr.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 511,
+    "name": "Value tokenization platform",
+    "sector": "Products",
+    "country": "Estonia",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 512,
+    "name": "VCC Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://vcc.exchange/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 513,
+    "name": "VELIC",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.velic.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 514,
+    "name": "Virtuse Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.virtuse.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 516,
+    "name": "WBF Exchange",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://wbfex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 517,
+    "name": "WTG Ventures",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://wtg.ventures/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Xcalibra",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://xcalibra.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 519,
+    "name": "Yunex.io",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://yunex.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 522,
+    "name": "Zerohub",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.0hub.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 523,
+    "name": "ZG.com",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.zg.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 524,
+    "name": "Zipmex",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://zipmex.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 525,
+    "name": "ZT",
+    "sector": "CEX",
+    "country": null,
+    "website": "https://www.ztb.im/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 526,
+    "name": "Асоціація Геймінгу",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Asotsiatsiia Heiminhu"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 529,
+    "name": "Всеукраїнська Асоціація Кредитних Установ",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "vaku.com.ua",
+    "aliases": [
+      "Vseukrainska Asotsiatsiia Kredytnykh Ustanov"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 530,
+    "name": "Державна Митна Служба",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "http://customs.gov.ua/en/",
+    "aliases": [
+      "Derzhavna Mytna Sluzhba"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 531,
+    "name": "Державний університет «Житомирська політехніка»",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.ztu.edu.ua/",
+    "aliases": [
+      "Derzhavnyi universytet «Zhytomyrska politekhnika»"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 534,
+    "name": "Донецкий национальный технический университет",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://donntu.ru/",
+    "aliases": [
+      "Donetskyi natsyonalnyi tekhnycheskyi unyversytet"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 535,
+    "name": "Економічна правда",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": "https://epravda.com.ua/",
+    "aliases": [
+      "Ekonomichna pravda"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 550,
+    "name": "Національний університет \"Чернігівська політехніка\"",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://stu.cn.ua/en/",
+    "aliases": [
+      "Natsionalnyi universytet \"Chernihivska politekhnika\""
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 551,
+    "name": "Національний університет «Одеська політехніка»",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://op.edu.ua/en/ads",
+    "aliases": [
+      "Natsionalnyi universytet «Odeska politekhnika»",
+      "ОНПУ"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 553,
+    "name": "Уряд Канади",
+    "sector": "Donor",
+    "country": "Canada",
+    "website": null,
+    "aliases": [
+      "Uriad Kanady"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 554,
+    "name": "Уряд Німеччини",
+    "sector": "Donor",
+    "country": "Germany",
+    "website": null,
+    "aliases": [
+      "Uriad Nimechchyny"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 555,
+    "name": "Уряд Швеції",
+    "sector": "Donor",
+    "country": "Sweden",
+    "website": null,
+    "aliases": [
+      "Uriad Shvetsii"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 556,
+    "name": "Фонд Західна Європа",
+    "sector": "Donor",
+    "country": null,
+    "website": null,
+    "aliases": [
+      "Fond Zakhidna Yevropa"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 558,
+    "name": "Энергоатом",
+    "sector": "Mining",
+    "country": "Ukraine",
+    "website": "http://www.energoatom.com.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 563,
+    "name": "Київський кооперативний інститут бізнесу і права",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "http://www.kkibp.edu.ua/en/",
+    "aliases": [
+      "Kyivskyi kooperatyvnyi instytut biznesu i prava"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 564,
+    "name": "НаУКМА",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.ukma.edu.ua/",
+    "aliases": [
+      "NaUKMA",
+      "Києво-Могилянська академія",
+      "National University of Kyiv-Mohyla Academy",
+      "Могилянка"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 565,
+    "name": "КНЕУ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kneu.edu.ua/en/",
+    "aliases": [
+      "КНЕУ імені Вадима Гетьмана",
+      "Kyiv National Economics University",
+      "Київський національний економічний університет",
+      "KNEU"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 566,
+    "name": "ДТЕУ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://knute.edu.ua/?en",
+    "aliases": [
+      "Державний торговельно-економічний університет",
+      "State University of Trade and Economics"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 567,
+    "name": "ЗУНУ, Тернопіль",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "ZUNU",
+      "Ternopil"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 568,
+    "name": "CryptOrg",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://cryptorg.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 569,
+    "name": "MIT Cryptoeconomics Lab",
+    "sector": "Hub",
+    "country": "USA",
+    "website": "https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/welcome-mit-cryptoeconomics-lab",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 570,
+    "name": "Scrypt Wallet",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.scryptwallet.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 571,
+    "name": "WEB 3 Recruiting",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://thecryptorecruiters.io/best-web-3-recruiting-agency-for-the-united-states/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 573,
+    "name": "БО БФ Світогляд",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://opendatabot.ua/c/44659520",
+    "aliases": [
+      "BO BF Svitohliad"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 577,
+    "name": "Вінницький технічний фаховий коледж",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://vtc.vn.ua/",
+    "aliases": [
+      "Vinnytskyi tekhnichnyi fakhovyi koledzh"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 578,
+    "name": "ВСП ФКЕП",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kep.nung.edu.ua/pages/quality/poll",
+    "aliases": [
+      "VSP FKEP"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 579,
+    "name": "Хмельницький кооперативний фаховий коледж",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Khmelnytskyi kooperatyvnyi fakhovyi koledzh"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 581,
+    "name": "Kremenchuk Mykhailo Ostrohradskyi National University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.kdu.edu.ua/en/main.php",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 582,
+    "name": "AstroQuest",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.astroquest.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 584,
+    "name": "Interport Finance",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://intersort.github.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 585,
+    "name": "ЛНТУ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://lntu.edu.ua/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 587,
+    "name": "Верховна Рада",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.rada.gov.ua/",
+    "aliases": [
+      "ВР",
+      "Verkhovna Rada",
+      "Ukrainian Parliament",
+      "Verkhovna Rada"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 588,
+    "name": "Ministry of Justice of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://grassrootsjusticenetwork.org/connect/organization/ministry-of-justice-of-ukraine/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 589,
+    "name": "SETAM",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "OpenMarket"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 590,
+    "name": "East Europe Foundation",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": "https://eef.org.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 591,
+    "name": "State Land Cadastre of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Держкомзем"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 592,
+    "name": "State E-Governance Agency of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 593,
+    "name": "Ministry of Infrastructure of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mtu.gov.ua/en/",
+    "aliases": [
+      "Мінінфраструктури"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 594,
+    "name": "Andromeda",
+    "sector": "L1/L2 Protocol",
+    "country": "Sweden",
+    "website": "https://www.andromedaprotocol.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 595,
+    "name": "State Customs Service of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mof.gov.ua/en/state-customs-service",
+    "aliases": [
+      "Державна митна служба"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 596,
+    "name": "Maersk",
+    "sector": "Products",
+    "country": "Denmark",
+    "website": "https://www.maersk.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 597,
+    "name": "State Forestry Agency of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 599,
+    "name": "Stellar Development Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": "https://stellar.org/foundation",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 600,
+    "name": "iov42",
+    "sector": "Products",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 601,
+    "name": "Aurora",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 602,
+    "name": "Temple",
+    "sector": "Products",
+    "country": "India",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 603,
+    "name": "Minerall",
+    "sector": "Mining",
+    "country": "Germany",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 604,
+    "name": "Majinx",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://www.majinx.com/virtually-impossible",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 605,
+    "name": "Myriads / BlockFunnel",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 606,
+    "name": "Tknomics",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 608,
+    "name": "WhitePay",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://whitepay.com/about",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 609,
+    "name": "Blaze",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.theblazeprod.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 610,
+    "name": "Hackless",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 612,
+    "name": "Global Ledger",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://globalledger.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 613,
+    "name": "Scamfari",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://scamfari.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 614,
+    "name": "DeXe / Kattana / 111PG",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 615,
+    "name": "Allbridge",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://allbridge.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 616,
+    "name": "Quipuswap / Yupana",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 617,
+    "name": "Loopin",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.loopin.ai/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 618,
+    "name": "ITG",
+    "sector": "Expert",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 619,
+    "name": "Intropia",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://hossintropia.com/es/es",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 620,
+    "name": "Nerif Network",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 621,
+    "name": "Hypra",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://www.hypralusso.com/archive",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 622,
+    "name": "Everstake Capital",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": "https://everstake.capital/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Boosty Venture Studio",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 624,
+    "name": "DAOBOX / Aurum",
+    "sector": "Legal",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 625,
+    "name": "NEAR Hackathons",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://nearhacks.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 626,
+    "name": "Kyiv Tech Summit",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://kyiv-tech-summit.vercel.app/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 627,
+    "name": "V-ART",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 628,
+    "name": "Clarnium",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://clarnium.io/games/maincard",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 629,
+    "name": "Atlantis World",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://atlantisworldschool.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 630,
+    "name": "Waterfall",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://waterfall.network/",
+    "aliases": [
+      "Waterfall Foundation"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 631,
+    "name": "Govern Climate",
+    "sector": "Products",
+    "country": null,
+    "website": "https://c2g2.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 632,
+    "name": "Vrije Universiteit Amsterdam",
+    "sector": "Academy",
+    "country": "Netherlands",
+    "website": "https://vu.nl/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 633,
+    "name": "BOKU University",
+    "sector": "Academy",
+    "country": "Austria",
+    "website": "https://boku.ac.at/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 634,
+    "name": "University of the Philippines",
+    "sector": "Academy",
+    "country": "Philippines",
+    "website": "https://up.edu.ph/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 635,
+    "name": "London School of Economics",
+    "sector": "Academy",
+    "country": "UK",
+    "website": "https://www.lse.ac.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 636,
+    "name": "National Central University Taiwan",
+    "sector": "Academy",
+    "country": "Taiwan",
+    "website": "https://www.ncu.edu.tw/?Lang=en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 637,
+    "name": "Amplify Australia",
+    "sector": "Donor",
+    "country": "Australia",
+    "website": "https://www.amplifyaus.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 638,
+    "name": "Cidade Democrática",
+    "sector": "Products",
+    "country": "Brazil",
+    "website": "https://cidadedemocratica.org.br/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 639,
+    "name": "In Transit",
+    "sector": "Hub",
+    "country": "USA",
+    "website": "https://intransit.space/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 640,
+    "name": "Post Platforms",
+    "sector": "Products",
+    "country": null,
+    "website": "https://postplatforms.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 641,
+    "name": "MIT",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.mit.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 642,
+    "name": "Sonmas",
+    "sector": "Products",
+    "country": "USA",
+    "website": "http://www.sonmas.com/en/ventajas.php",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 643,
+    "name": "Parare",
+    "sector": "Products",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 644,
+    "name": "Teyit",
+    "sector": "Products",
+    "country": "Turkey",
+    "website": "https://en.teyit.org/?page=5",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 645,
+    "name": "Bell Lane",
+    "sector": "Products",
+    "country": "Ireland",
+    "website": "https://www.belllane.ie/?srsltid=AfmBOorfa2gFbrdJqvF6wY0U--OdH89zRlJKGqCUNmne8uDtrcc9sddu",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 646,
+    "name": "Sciences Po",
+    "sector": "Academy",
+    "country": "France",
+    "website": "https://www.sciencespo.fr/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 647,
+    "name": "Hubs Network",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://www.hubsnetwork.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 648,
+    "name": "Cornell University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.cornell.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 649,
+    "name": "Global Solutions Initiative",
+    "sector": "Donor",
+    "country": "Germany",
+    "website": "https://www.global-solutions-initiative.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 650,
+    "name": "Democracia en Red",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://democraciaenred.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 651,
+    "name": "Golem Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": "Switzerland",
+    "website": "https://golem.foundation/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 652,
+    "name": "University of Colorado Denver",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.ucdenver.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 653,
+    "name": "Vidbudova",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": "https://www.vidbudova-ua.com/en/home/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 654,
+    "name": "Asty Lab",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.astylabventures.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 655,
+    "name": "Columbia University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.columbia.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 656,
+    "name": "FEPS",
+    "sector": "Academy",
+    "country": "Spain",
+    "website": "https://feps.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 657,
+    "name": "Department of Foreign Affairs Ireland",
+    "sector": "Gov Bodies",
+    "country": "Ireland",
+    "website": "https://www.ireland.ie/en/usa/washington/services/visas/visas-for-ireland/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 658,
+    "name": "Identity Valley",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://identityvalley.eu/support-us",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 659,
+    "name": "Ponts Business School",
+    "sector": "Academy",
+    "country": "France",
+    "website": "https://pontsbschool.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 660,
+    "name": "People Powered",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://www.peoplepowered.org/2026-convening-program",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 661,
+    "name": "Australian Progress",
+    "sector": "Donor",
+    "country": "Australia",
+    "website": "https://www.australianprogress.org.au/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 662,
+    "name": "Decoland",
+    "sector": "Products",
+    "country": "Japan",
+    "website": "https://www.decoland.co.jp/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 663,
+    "name": "Natural Resources Wales",
+    "sector": "Gov Bodies",
+    "country": "UK",
+    "website": "https://naturalresources.wales/?lang=en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 664,
+    "name": "Demos Helsinki",
+    "sector": "Academy",
+    "country": "Finland",
+    "website": "https://demoshelsinki.fi/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 665,
+    "name": "It's Our Voice",
+    "sector": "Donor",
+    "country": "Australia",
+    "website": "https://indigenousx.com.au/its-our-voice-let-us-speak/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 666,
+    "name": "Skyblue",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.skybluemedia.my/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 667,
+    "name": "La Trobe University",
+    "sector": "Academy",
+    "country": "Australia",
+    "website": "https://www.latrobe.edu.au/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 668,
+    "name": "zkorum",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 669,
+    "name": "European University Institute",
+    "sector": "Academy",
+    "country": "Italy",
+    "website": "https://www.eui.eu/en/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 670,
+    "name": "Innovation in Politics Institute",
+    "sector": "Hub",
+    "country": null,
+    "website": "https://innovationinpolitics.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 671,
+    "name": "IZOLYATSIA",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://izolyatsia.org/static/izo-research/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 672,
+    "name": "One Project",
+    "sector": "Donor",
+    "country": "USA",
+    "website": "https://www.theprojectone.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 673,
+    "name": "Elysian Press",
+    "sector": "Media",
+    "country": null,
+    "website": "https://www.elysian.press/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 674,
+    "name": "RNW Media",
+    "sector": "Media",
+    "country": "USA",
+    "website": "https://www.rnw.media/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 675,
+    "name": "LoveVolv",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.lovevolv.org/2008/07/71708-dj-spooky-dj-shadow-cut-chemist.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 676,
+    "name": "Politica for Tomorrow",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 677,
+    "name": "Komma Systems",
+    "sector": "Academy",
+    "country": null,
+    "website": "https://www.komma.systems/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 678,
+    "name": "ICM Limited",
+    "sector": "Investments",
+    "country": "USA",
+    "website": "https://www.icm.limited/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Venture Centre NZ",
+    "sector": "Investments",
+    "country": "New Zealand",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 680,
+    "name": "i4Policy",
+    "sector": "Donor",
+    "country": "USA",
+    "website": "https://www.i4policy.org/about-us/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 681,
+    "name": "Open Source Politics",
+    "sector": "Products",
+    "country": "France",
+    "website": "https://opensourcepolitics.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 682,
+    "name": "Identity Woman",
+    "sector": "Media",
+    "country": "USA",
+    "website": "https://identitywoman.net/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 683,
+    "name": "Reddcoin",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.reddcoin.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 684,
+    "name": "Koç University",
+    "sector": "Academy",
+    "country": "Turkey",
+    "website": "https://www.ku.edu.tr/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 685,
+    "name": "Plural",
+    "sector": "Products",
+    "country": "UK",
+    "website": "https://www.plural.sh/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 686,
+    "name": "Nexus Politics",
+    "sector": "Products",
+    "country": "Germany",
+    "website": "https://nexuspolitics.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 687,
+    "name": "Siren Associates",
+    "sector": "Expert",
+    "country": "UK",
+    "website": "https://www.sirenassociates.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 688,
+    "name": "EELLAK",
+    "sector": "Academy",
+    "country": null,
+    "website": "https://eellak.ellak.gr/draseis/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 689,
+    "name": "Forum Coop",
+    "sector": "Products",
+    "country": "UK",
+    "website": "https://www.forum.coop/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 690,
+    "name": "Groen-Heesen",
+    "sector": "Expert",
+    "country": "Netherlands",
+    "website": "https://groen-heesen.nl/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 691,
+    "name": "Nyu",
+    "sector": "Products",
+    "country": "Japan",
+    "website": "https://www.nyu.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 692,
+    "name": "Minerva University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.minerva.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 693,
+    "name": "Objective",
+    "sector": "Products",
+    "country": "Australia",
+    "website": "https://www.objective.com.au/resources/all",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 694,
+    "name": "Voice of Humanity",
+    "sector": "Donor",
+    "country": null,
+    "website": "https://vhbd.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 695,
+    "name": "Black by God",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://blackbygod.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 696,
+    "name": "BloodyFast",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.bloodyfast.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 697,
+    "name": "Photrek",
+    "sector": "Academy",
+    "country": "UK",
+    "website": "https://www.photrek.co.uk/?page_id=310",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 698,
+    "name": "Q4 Israel",
+    "sector": "Media",
+    "country": "Israel",
+    "website": "https://q4israel.org.il/english/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 699,
+    "name": "Bloom Project",
+    "sector": "Donor",
+    "country": "UK",
+    "website": "https://www.bloomproject.co.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 700,
+    "name": "ETHDenver",
+    "sector": "Hub",
+    "country": "USA",
+    "website": "https://ethdenver.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 701,
+    "name": "Working Families",
+    "sector": "Donor",
+    "country": "USA",
+    "website": "https://workingfamilies.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 702,
+    "name": "Rocketstars",
+    "sector": "Hub",
+    "country": "Australia",
+    "website": "https://rocketstars.com.au/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 703,
+    "name": "Northumbria University",
+    "sector": "Academy",
+    "country": "UK",
+    "website": "https://www.northumbria.ac.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 704,
+    "name": "Domic",
+    "sector": "Media",
+    "country": "Austria",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 705,
+    "name": "Transcognify",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 706,
+    "name": "Foresight Institute",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://foresight.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 707,
+    "name": "Smart Jewelry Lab",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 708,
+    "name": "Quantum Wiring",
+    "sector": "Products",
+    "country": "USA",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 709,
+    "name": "Pandora Boxchain",
+    "sector": "Products",
+    "country": "Italy",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 710,
+    "name": "Hirzel.Neef.Schmid.Konsulenten",
+    "sector": "Expert",
+    "country": "Switzerland",
+    "website": "https://www.konsulenten.ch/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 711,
+    "name": "H/Advisors Blockchain Switzerland",
+    "sector": "Hub",
+    "country": "Switzerland",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 712,
+    "name": "dizrupt collective",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 713,
+    "name": "Taras Shevchenko National University of Kyiv",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://knu.ua/en/",
+    "aliases": [
+      "КНУ",
+      "КНУ ім. Шевченка",
+      "КНУ імені Шевченка",
+      "КНУ імені Тараса Шевченка"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 714,
+    "name": "University of Basel",
+    "sector": "Academy",
+    "country": "Switzerland",
+    "website": "https://www.unibas.ch/en.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 715,
+    "name": "Northeastern University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.northeastern.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 716,
+    "name": "National Academy of Sciences of Ukraine",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.nas.gov.ua/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 717,
+    "name": "Odesa National Economic University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "http://oneu.edu.ua/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 718,
+    "name": "Technische Universität Wien",
+    "sector": "Academy",
+    "country": "Austria",
+    "website": "https://www.tuwien.at/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 719,
+    "name": "Setcoin Group",
+    "sector": "Investments",
+    "country": null,
+    "website": "https://setcoin.group/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 720,
+    "name": "State University of Telecommunications and Information Security",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 735,
+    "name": "Frontline",
+    "sector": "Products",
+    "country": null,
+    "website": "https://www.pbs.org/wgbh/frontline/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 736,
+    "name": "SupportUkraineNOW",
+    "sector": "Donor",
+    "country": "Ukraine",
+    "website": "https://supportukrainenow.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 737,
+    "name": "Regen Tokenomics",
+    "sector": "Finance",
+    "country": null,
+    "website": "https://regentokenomics.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 738,
+    "name": "People Spark AG",
+    "sector": "Finance",
+    "country": "Switzerland",
+    "website": "https://pplspark.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 739,
+    "name": "CFA Society Ukraine",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.cfasociety.org/ukraine/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 740,
+    "name": "brkn.media",
+    "sector": "Media",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 741,
+    "name": "iPlena",
+    "sector": "Products",
+    "country": "Germany",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 742,
+    "name": "Open Kitchen Insurance Solutions",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 743,
+    "name": "Ukrainian School of Political Studies",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://usps.org.ua/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 744,
+    "name": "Kyiv International University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://kymu.edu.ua/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 746,
+    "name": "University of Nicosia",
+    "sector": "Academy",
+    "country": "Cyprus",
+    "website": "https://www.unic.ac.cy/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 748,
+    "name": "Technical University of Denmark",
+    "sector": "Academy",
+    "country": "Denmark",
+    "website": "https://www.dtu.dk/english/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 749,
+    "name": "INPUT Global",
+    "sector": "Academy",
+    "country": "Portugal",
+    "website": "https://input.global/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 750,
+    "name": "Plug and Play Tech Center",
+    "sector": "Hub",
+    "country": "USA",
+    "website": "https://www.plugandplaytechcenter.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 751,
+    "name": "Kyiv Academy of Media Arts",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.k-a-m-a.com/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 752,
+    "name": "Bentley University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.bentley.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 753,
+    "name": "Halmstad University",
+    "sector": "Academy",
+    "country": "Sweden",
+    "website": "https://www.hh.se/english.html",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 754,
+    "name": "Goethe University Frankfurt",
+    "sector": "Academy",
+    "country": "Germany",
+    "website": "https://www.goethe-university-frankfurt.de/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 755,
+    "name": "DAI",
+    "sector": "Expert",
+    "country": null,
+    "website": "https://www.dai.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 756,
+    "name": "Keiretsu Forum",
+    "sector": "Investments",
+    "country": "UK",
+    "website": "https://keiretsuforum.co.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 757,
+    "name": "FundThrough",
+    "sector": "Investments",
+    "country": "Canada",
+    "website": "https://www.fundthrough.com/alternative-finance-guide/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 758,
+    "name": "Ukrainian Startup Fund",
+    "sector": "Investments",
+    "country": "Ukraine",
+    "website": "https://usf.com.ua/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Blockstream",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://blockstream.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 760,
+    "name": "American University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.american.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 761,
+    "name": "Ohio University",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://www.ohio.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 762,
+    "name": "UW Foster School of Business",
+    "sector": "Academy",
+    "country": "USA",
+    "website": "https://foster.uw.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 763,
+    "name": "Kyiv National Linguistics University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 764,
+    "name": "Yaroslav Mudryi National Law University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://nlu.edu.ua/en/study-at-nlu/for-abroad-students/about-the-university/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 765,
+    "name": "HEC Paris",
+    "sector": "Academy",
+    "country": "France",
+    "website": "https://www.hec.edu/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 766,
+    "name": "Ostolex",
+    "sector": "Legal",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 769,
+    "name": "ЛНУ імені Івана Франка",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://admission.lnu.edu.ua/international-students/",
+    "aliases": [
+      "Львівський національний університет імені Івана Франка",
+      "ЛНУ им. И. Франко",
+      "ЛНУ"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 771,
+    "name": "Ліцей I-School , Академія cryptology key",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Litsei I-School",
+      "Akademiia cryptology key"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 775,
+    "name": "Comenius University",
+    "sector": "Academy",
+    "country": "Slovakia",
+    "website": "https://uniba.sk/en/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 778,
+    "name": "Partida Services",
+    "sector": "Legal",
+    "country": "USA",
+    "website": "https://partida.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 779,
+    "name": "Genesis",
+    "sector": "Expert",
+    "country": "USA",
+    "website": "https://www.genesis.com/us/en/home",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 781,
+    "name": "De.Fi",
+    "sector": "Products",
+    "country": "Finland",
+    "website": "https://de.fi/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 782,
+    "name": "Kaizen",
+    "sector": "Expert",
+    "country": "Japan",
+    "website": "https://kaizen.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 783,
+    "name": "Ace Studio",
+    "sector": "Products",
+    "country": null,
+    "website": "https://acestudio.ai/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 785,
+    "name": "Львівська Політехніка",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "НУ ЛП",
+      "ЛПНУ",
+      "Національний університет Львівська політехніка",
+      "Lviv Polytechnic"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 786,
+    "name": "КУБГ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://od.kubg.edu.ua/index.php/journal/announcement",
+    "aliases": [
+      "Київський Університет ім. Бориса Грінченка",
+      "Borys Grinchenko Kyiv University"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 787,
+    "name": "ДНУ ім. Олеся Гончара",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.dnu.dp.ua/eng",
+    "aliases": [
+      "Днепропетровский национальный университет им. О. Гончара",
+      "DNU",
+      "ДНУ"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 793,
+    "name": "Дніпровська гімназія № 63 Дніпровської міської ради",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://www.g63dmr.online/",
+    "aliases": [
+      "Dniprovska himnaziia № 63 Dniprovskoi miskoi rady"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 794,
+    "name": "Національний університет кораблебудування імені адмірала Макарова",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://nuos.edu.ua/en/",
+    "aliases": [
+      "Natsionalnyi universytet korablebuduvannia imeni admirala Makarova"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 796,
+    "name": "Set University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 797,
+    "name": "ХНУ Каразіна",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "KhNU Karazina"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 798,
+    "name": "Oriole Insights",
+    "sector": "Products",
+    "country": "USA",
+    "website": "https://orioleinsights.io/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 799,
+    "name": "Continuum Loop Inc.",
+    "sector": "Expert",
+    "country": "USA",
+    "website": "https://www.continuumloop.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 800,
+    "name": "Trust Over IP Foundation",
+    "sector": "L1/L2 Protocol",
+    "country": "USA",
+    "website": "https://trustoverip.org/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 801,
+    "name": "Superteam Ukraine",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://linktr.ee/kumekateam",
+    "aliases": [
+      "Kumeka",
+      "Kumeka Team",
+      "SuperteamUKR"
+    ],
+    "description": "Ukrainian Solana Hub. Part of the Superteam family. Grow your startup with us.",
+    "tag_ids": []
+  },
+  {
+    "id": 802,
+    "name": "Інтерпол",
+    "sector": "International Regulator",
+    "country": null,
+    "website": "https://www.ilel-interpol.org/en/historic-interpol-meeting-closes-with-call-to-action-on-tackling-organized-crime/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 803,
+    "name": "GenLayer",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://www.genlayer.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 806,
+    "name": "Чернівецький національний університет",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "ЧНУ",
+      "Chernivtsi National University"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 807,
+    "name": "State University of Information and Communication Technologies",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://duikt.edu.ua",
+    "aliases": [
+      "ДУІКТ",
+      "Державний університет інформаційно-комунікаційних технологій"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 808,
+    "name": "Dnipro Court of Appeal",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 809,
+    "name": "Ukrainian State University of Science and Technologies",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 811,
+    "name": "QuantumCore",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 812,
+    "name": "Supreme Court of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 813,
+    "name": "Zaporizhya Circuit Administrative Court",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 814,
+    "name": "Dnipro Court of Appeal",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 815,
+    "name": "Ukrainian State University of Science and Technologies",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 816,
+    "name": "Argentics",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 817,
+    "name": "QuantumCore",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 818,
+    "name": "Supreme Court of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 819,
+    "name": "Zaporizhya Circuit Administrative Court",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 820,
+    "name": "ХНУРЕ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://nure.ua/",
+    "aliases": [
+      "Харківський національний університет радіоелектроніки"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 821,
+    "name": "Черкаський ДТУ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://chdtu.edu.ua/",
+    "aliases": [
+      "Черкаський державний технологічний університет"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 822,
+    "name": "Дніпровська Політехніка",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://nmu.org.ua/",
+    "aliases": [
+      "Національний технічний університет Дніпровська політехніка"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 823,
+    "name": "Полтавська Політехніка",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://nupp.edu.ua/",
+    "aliases": [
+      "Національний університет Полтавська політехніка ім. Юрія Кондратюка"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 824,
+    "name": "ХНЕУ ім. Кузнеця",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://hneu.edu.ua/",
+    "aliases": [
+      "Харківський національний економічний університет ім. С. Кузнеця"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 825,
+    "name": "Український католицький університет",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://ucu.edu.ua/",
+    "aliases": [
+      "UCU",
+      "УКУ"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 826,
+    "name": "DTEK Academy",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://academy.dtek.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 827,
+    "name": "МІБ",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://iib.com.ua/",
+    "aliases": [
+      "Міжнародний інститут бізнесу"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 828,
+    "name": "Lviv Business School (LvBS)",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://lvbs.com.ua/",
+    "aliases": [
+      "LvBS",
+      "Львівська бізнес-школа УКУ"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 840,
+    "name": "Kennesaw State University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.kennesaw.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 841,
+    "name": "University of North Carolina at Charlotte",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.charlotte.edu/",
+    "aliases": [
+      "UNC Charlotte",
+      "UNCC"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 842,
+    "name": "Duke University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.duke.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 843,
+    "name": "Harvard University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.harvard.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 844,
+    "name": "Loyola Marymount University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.lmu.edu/",
+    "aliases": [
+      "LMU"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 845,
+    "name": "Massachusetts Institute of Technology",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.mit.edu/",
+    "aliases": [
+      "MIT"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 846,
+    "name": "Portland State University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.pdx.edu/",
+    "aliases": [
+      "PSU"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 847,
+    "name": "Princeton University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.princeton.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 848,
+    "name": "Rutgers University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.rutgers.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 849,
+    "name": "Stanford University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.stanford.edu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 850,
+    "name": "SUNY at Buffalo",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.buffalo.edu/",
+    "aliases": [
+      "University at Buffalo",
+      "UB"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 851,
+    "name": "University of California, Berkeley",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.berkeley.edu/",
+    "aliases": [
+      "UC Berkeley",
+      "Cal"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 852,
+    "name": "University of California, Irvine",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://uci.edu/",
+    "aliases": [
+      "UC Irvine",
+      "UCI"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 853,
+    "name": "University of Pennsylvania",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.upenn.edu/",
+    "aliases": [
+      "UPenn",
+      "Penn"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 854,
+    "name": "University of Amsterdam",
+    "sector": "Academy",
+    "country": "Netherlands",
+    "website": "https://www.uva.nl/en",
+    "aliases": [
+      "UvA"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 855,
+    "name": "National University of Singapore",
+    "sector": "Academy",
+    "country": "Singapore",
+    "website": "https://www.nus.edu.sg/",
+    "aliases": [
+      "NUS"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 856,
+    "name": "University of Cambridge",
+    "sector": "Academy",
+    "country": "United Kingdom",
+    "website": "https://www.cam.ac.uk/",
+    "aliases": [
+      "Cambridge",
+      "Cambridge CAF"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 857,
+    "name": "Vienna University of Economics and Business",
+    "sector": "Academy",
+    "country": "Austria",
+    "website": "https://www.wu.ac.at/en/",
+    "aliases": [
+      "WU Wien",
+      "WU Vienna"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 858,
+    "name": "ETH Zurich",
+    "sector": "Academy",
+    "country": "Switzerland",
+    "website": "https://ethz.ch/en.html",
+    "aliases": [
+      "ETH Zürich",
+      "Swiss Federal Institute of Technology"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 859,
+    "name": "University of Tartu",
+    "sector": "Academy",
+    "country": "Estonia",
+    "website": "https://ut.ee/en",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 860,
+    "name": "University of Copenhagen",
+    "sector": "Academy",
+    "country": "Denmark",
+    "website": "https://www.ku.dk/english/",
+    "aliases": [
+      "KU",
+      "UCPH"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 861,
+    "name": "Politecnico di Milano",
+    "sector": "Academy",
+    "country": "Italy",
+    "website": "https://www.polimi.it/en",
+    "aliases": [
+      "PoliMi",
+      "Web3Hub"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 862,
+    "name": "Howest University of Applied Sciences",
+    "sector": "Academy",
+    "country": "Belgium",
+    "website": "https://www.howest.be/en",
+    "aliases": [
+      "Howest"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 863,
+    "name": "Institut Mines-Télécom",
+    "sector": "Academy",
+    "country": "France",
+    "website": "https://www.imt.fr/en/",
+    "aliases": [
+      "IMT"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 864,
+    "name": "Norwegian University of Science and Technology",
+    "sector": "Academy",
+    "country": "Norway",
+    "website": "https://www.ntnu.edu/",
+    "aliases": [
+      "NTNU"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 865,
+    "name": "Prague University of Economics and Business",
+    "sector": "Academy",
+    "country": "Czech Republic",
+    "website": "https://www.vse.cz/english/",
+    "aliases": [
+      "VŠE",
+      "VSE Prague"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 866,
+    "name": "European Business Institute",
+    "sector": "Academy",
+    "country": "Luxembourg",
+    "website": "https://ebi.edu.eu/",
+    "aliases": [
+      "EBI Luxembourg"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 867,
+    "name": "ESCP Business School",
+    "sector": "Academy",
+    "country": "France",
+    "website": "https://escp.eu/",
+    "aliases": [
+      "ESCP"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 868,
+    "name": "University of Oxford",
+    "sector": "Academy",
+    "country": "United Kingdom",
+    "website": "https://www.ox.ac.uk/",
+    "aliases": [
+      "Oxford"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 869,
+    "name": "University of Edinburgh",
+    "sector": "Academy",
+    "country": "United Kingdom",
+    "website": "https://www.ed.ac.uk/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 870,
+    "name": "University of Tokyo",
+    "sector": "Academy",
+    "country": "Japan",
+    "website": "https://www.u-tokyo.ac.jp/en/",
+    "aliases": [
+      "UTokyo",
+      "東京大学"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 871,
+    "name": "DTEK",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": "https://dtek.com/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 872,
+    "name": "Circle",
+    "sector": null,
+    "country": null,
+    "website": "https://circle.com",
+    "aliases": [],
+    "description": "Global financial technology firm and issuer of USDC stablecoin. MiCA-licensed, partners with governments (Bermuda) and international organizations (UNHCR).",
+    "tag_ids": []
+  },
+  {
+    "id": 873,
+    "name": "Lviv IT Cluster",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://itcluster.lviv.ua",
+    "aliases": [],
+    "description": "The largest IT community in Ukraine, comprising over 270 tech companies. Initiates and implements projects focused on specialized education, startups, city infrastructure, and favorable conditions for living and doing business in Lviv.",
+    "tag_ids": []
+  },
+  {
+    "id": 874,
+    "name": "Evacodes",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://evacodes.com",
+    "aliases": [],
+    "description": "Web3 development studio. One of the top 10 Ukrainian blockchain development companies providing services to clients worldwide.",
+    "tag_ids": []
+  },
+  {
+    "id": 875,
+    "name": "INC4",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://inc4.net",
+    "aliases": [],
+    "description": "Blockchain development company specializing in DeFi, NFT, and custom blockchain solutions. One of the top 10 Ukrainian blockchain dev companies.",
+    "tag_ids": []
+  },
+  {
+    "id": 876,
+    "name": "Blaize",
+    "sector": "Developers",
+    "country": "Ukraine",
+    "website": "https://blaize.tech",
+    "aliases": [],
+    "description": "Smart contract development and security audit company. One of the top 10 Ukrainian blockchain development companies.",
+    "tag_ids": []
+  },
+  {
+    "id": 877,
+    "name": "mad.fish",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": "https://mad.fish",
+    "aliases": [],
+    "description": "DeFi products studio, creators of Temple wallet for Tezos. One of the top 10 Ukrainian blockchain development companies.",
+    "tag_ids": []
+  },
+  {
+    "id": 878,
+    "name": "European Blockchain Partnership",
+    "sector": "Gov Bodies",
+    "country": "EU",
+    "website": "https://digital-strategy.ec.europa.eu/en/policies/blockchain-partnership",
+    "aliases": [
+      "EBP"
+    ],
+    "description": "EU-wide initiative to develop a European Blockchain Services Infrastructure (EBSI). Ukraine joined as observer in June 2022.",
+    "tag_ids": []
+  },
+  {
+    "id": 879,
+    "name": "EU Blockchain Observatory & Forum",
+    "sector": "Gov Bodies",
+    "country": "EU",
+    "website": "https://www.eublockchainforum.eu",
+    "aliases": [],
+    "description": "European Commission initiative to monitor blockchain developments across Europe. Published the EU Blockchain Ecosystem Developments report covering 32 countries including Ukraine.",
+    "tag_ids": []
+  },
+  {
+    "id": 880,
+    "name": "European Blockchain Services Infrastructure",
+    "sector": "Gov Bodies",
+    "country": "EU",
+    "website": "https://ec.europa.eu/digital-building-blocks/sites/display/EBSI",
+    "aliases": [
+      "EBSI"
+    ],
+    "description": "EU cross-border blockchain infrastructure for government services — diploma verification, digital identity, document traceability. Ukraine plans to integrate.",
+    "tag_ids": []
+  },
+  {
+    "id": 881,
+    "name": "INATBA",
+    "sector": "Hub",
+    "country": "EU",
+    "website": "https://inatba.org",
+    "aliases": [
+      "International Association for Trusted Blockchain Applications"
+    ],
+    "description": "International Association for Trusted Blockchain Applications. Global blockchain association bridging private sector, civil society, and public authorities.",
+    "tag_ids": []
+  },
+  {
+    "id": 882,
+    "name": "Austrian Blockchain Center",
+    "sector": "Academy",
+    "country": "Austria",
+    "website": "https://www.abc-research.at",
+    "aliases": [
+      "ABC"
+    ],
+    "description": "Austria's leading blockchain research center, a public-private partnership model supporting innovation. Part of the COMET program.",
+    "tag_ids": []
+  },
+  {
+    "id": 883,
+    "name": "MoneyGram",
+    "sector": "business",
+    "country": "USA",
+    "website": "https://www.moneygram.com",
+    "aliases": [],
+    "description": "Global money transfer company. Provides 4,500+ cash-out locations in Ukraine for converting USDC to fiat currency.",
+    "tag_ids": []
+  },
+  {
+    "id": 884,
+    "name": "Vibrant",
+    "sector": "business",
+    "country": "USA",
+    "website": "https://vibrantapp.com",
+    "aliases": [],
+    "description": "Digital wallet app on the Stellar network. Used by UNHCR Ukraine beneficiaries to receive and hold USDC humanitarian payments.",
+    "tag_ids": []
+  },
+  {
+    "id": 885,
+    "name": "UNHCR",
+    "sector": "International Regulator",
+    "country": "International",
+    "website": "https://www.unhcr.org",
+    "aliases": [],
+    "description": "The UN Refugee Agency. Delivers cash-based humanitarian assistance worldwide, including blockchain-based USDC payments in Ukraine.",
+    "tag_ids": []
+  },
+  {
+    "id": 886,
+    "name": "UNICC",
+    "sector": "International Regulator",
+    "country": "International",
+    "website": "https://www.unicc.org",
+    "aliases": [
+      "United Nations International Computing Centre"
+    ],
+    "description": "United Nations International Computing Centre — the UN technology solutions provider. Collaborated with UNHCR on blockchain payment pilot.",
+    "tag_ids": []
+  },
+  {
+    "id": 887,
+    "name": "Global Blockchain Business Council",
+    "sector": "business",
+    "country": "International",
+    "website": "https://gbbcouncil.org",
+    "aliases": [
+      "GBBC"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 888,
+    "name": "UNICEF",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 889,
+    "name": "European Commission",
+    "sector": "Gov Bodies",
+    "country": "EU",
+    "website": "https://commission.europa.eu/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 890,
+    "name": "Cosmos",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "https://cosmos.network/",
+    "aliases": [
+      "Interchain Foundation"
+    ],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 891,
+    "name": "DZ BANK AG",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 892,
+    "name": "Complexity Science Hub",
+    "sector": "Academy",
+    "country": "Austria",
+    "website": "https://csh.ac.at/",
+    "aliases": [],
+    "description": "Europe's Research Center Translating Data into Solutions for a Better World. Addressing society's biggest challenges by extracting meaning from enormous amounts of data — economy, human migration, health and disease, climate crisis, social values, urban development, conflict, and more. Research topics: foundations of complex systems, supply chain science, algorithmic fairness, AI & ML, digital currency ecosystems, healthcare, urban sustainability, human migration, social complexity.",
+    "tag_ids": [
+      2,
+      3,
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "id": 893,
+    "name": "NPC UKRENERGO",
+    "sector": "government",
+    "country": "Ukraine",
+    "website": "https://ua.energy/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 894,
+    "name": "Crowe Mikhailenko",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 895,
+    "name": "West Ukrainian National University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://wunu.edu.ua/",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 896,
+    "name": "Tonga Post Ltd",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 897,
+    "name": "Cyfrin Updraft",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 898,
+    "name": "CDTO Campus",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 900,
+    "name": "WU Research Institute for Cryptoeconomics",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 901,
+    "name": "WU Executive Academy",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 902,
+    "name": "Kobe University",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 903,
+    "name": "Lemio Solutions",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 904,
+    "name": "cbased",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 905,
+    "name": "Prolytic",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 906,
+    "name": "Active Inference Institute",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 907,
+    "name": "College of the Redwoods",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 908,
+    "name": "University of Colorado Boulder",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 909,
+    "name": "Ethereum Ukraine",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 910,
+    "name": "Digitopia",
+    "sector": "Investments",
+    "country": "UAE",
+    "website": "https://www.digitopia.vc",
+    "aliases": [],
+    "description": "Venture studio developing and investing in Web3 products and services. Combines product development with angel syndicate. Projects span UAE, UK, and USA.",
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 911,
+    "name": "Warren Center for Network and Data Sciences",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://warrencenter.upenn.edu/",
+    "aliases": [],
+    "description": "Interdisciplinary research center at the University of Pennsylvania focused on network science, data science, and their societal implications.",
+    "tag_ids": []
+  },
+  {
+    "id": 913,
+    "name": "George Washington University",
+    "sector": "Academy",
+    "country": "United States",
+    "website": "https://www.gwu.edu",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 914,
+    "name": "Odessa Polytechnic National University",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": "https://opu.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 915,
+    "name": "Ministry of Defence of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mod.gov.ua/",
+    "aliases": [
+      "MinDef",
+      "Міністерство оборони України",
+      "МОУ"
+    ],
+    "description": "Ministry of Defence of Ukraine — central executive body responsible for national defence policy.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 916,
+    "name": "Ministry of Social Policy of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.msp.gov.ua/",
+    "aliases": [
+      "MinSoc",
+      "Мінсоцполітики",
+      "Міністерство соціальної політики України"
+    ],
+    "description": "Ministry of Social Policy of Ukraine — central executive body responsible for social policy, welfare and social services.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 917,
+    "name": "Center for Innovations Development",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://cid.center/",
+    "aliases": [
+      "CID",
+      "Центр розвитку інновацій",
+      "ЦРІ"
+    ],
+    "description": "Ukrainian NGO focused on participatory democracy, e-democracy, participatory budgeting, e-governance, smart cities and data-driven management at local and national levels.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 918,
+    "name": "Global Government Technology Centre Kyiv",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://www.kyivgovtechcentre.org/",
+    "aliases": [
+      "GGTC Kyiv",
+      "Kyiv GovTech Centre",
+      "WEF GovTech Centre"
+    ],
+    "description": "World Economic Forum C4IR-network GovTech centre in Kyiv — the second Global Government Technology Centre in the world after Berlin. Platform for cooperation between governments, business, academia and startups on government technology.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 919,
+    "name": "Voxit",
+    "sector": "Products",
+    "country": "Finland",
+    "website": "https://www.voxit.org/",
+    "aliases": [
+      "Voxit EU"
+    ],
+    "description": "Open-source, research-backed platform for collective sense-making and online democratic discourse.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 920,
+    "name": "1991 Open Data Incubator",
+    "sector": "Hub",
+    "country": "Ukraine",
+    "website": "https://1991.center/",
+    "aliases": [
+      "1991",
+      "SocialBoost"
+    ],
+    "description": "First Ukrainian non-profit incubator for startups building on open government data, launched by SocialBoost in 2016. 160+ graduated startups creating tools for public servants, business and civil society.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 921,
+    "name": "Association of Ukrainian Cities",
+    "sector": "government",
+    "country": "Ukraine",
+    "website": "https://auc.org.ua",
+    "aliases": [],
+    "description": "Найбільша всеукраїнська асоціація органів місцевого самоврядування; ключовий брокер довіри для виходу на громади (LSG). Gap-list Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 922,
+    "name": "Congress of Local and Regional Authorities of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://www.president.gov.ua",
+    "aliases": [],
+    "description": "Консультативно-дорадчий орган при Президентові — формальний майданчик залучення місцевих і регіональних влад. Gap-list Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 923,
+    "name": "iStoria Foundation",
+    "sector": null,
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": "Громадська організація з інструментом залучення громадян, близьким до Polis. Gap-list Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 924,
+    "name": "State Statistics Service of Ukraine (Derzhstat)",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://ukrstat.gov.ua",
+    "aliases": [],
+    "description": "Держстат — національний орган статистики; джерело відкритих даних на рівні громад. Gap-list Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 925,
+    "name": "e-DEM (National E-Democracy Platform)",
+    "sector": null,
+    "country": "Ukraine",
+    "website": "https://e-dem.ua",
+    "aliases": [],
+    "description": "Національна платформа е-демократії (петиції, бюджет участі, консультації), розвивається за участі East Europe Foundation. Фронтранер цифрової участі для муніципалітетів.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 926,
+    "name": "Ministry for Communities and Territories Development of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://mindev.gov.ua",
+    "aliases": [],
+    "description": "Мінрозвиток — політичний власник децентралізації та стратегічного планування громад (моніторинг охоплення стратегіями: 1314 громад / 91%, 2023).",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 927,
+    "name": "AI Challenge \"Handwritten to Data\"",
+    "sector": null,
+    "country": "Ukraine",
+    "website": "https://thedigital.gov.ua/news/shtuchnyy-intelekt/otsyfrovuyemo-ukrayinski-rukopysy-khto-peremih-v-ai-chelendzi-handwritten-to-data",
+    "aliases": [],
+    "description": "AI-хакатон Мінцифри з оцифрування українських рукописів (ML/розпізнавання рукописного тексту). Приклад успішної держ-практики хакатонів.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 928,
+    "name": "AI GovTech Hackathon",
+    "sector": null,
+    "country": "Ukraine",
+    "website": "https://www.ai-govtech-hackathon.com/en",
+    "aliases": [],
+    "description": "Хакатон із застосування AI до державних сервісів (GovTech). Найближчий аналог формату kickoff для Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 929,
+    "name": "EGAP Ideathon",
+    "sector": null,
+    "country": "Ukraine",
+    "website": "https://ideathon.egap.in.ua",
+    "aliases": [],
+    "description": "Ідеатон EGAP (East Europe Foundation, Swiss SDC) з е-врядування та громадянських інновацій. EGAP — партнер Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 930,
+    "name": "SocialBoost",
+    "sector": null,
+    "country": "Ukraine",
+    "website": "https://socialboost.ua",
+    "aliases": [],
+    "description": "Провідна українська civic-tech організація (засновник Денис Гурський). Розробляє державні хакатони, відкриті дані (OpenDataBot), е-сервіси; заснувала 1991 Open Data Incubator. Ключовий гравець гос-хакатонів — приклад успішної практики для Civic Tech Lab.",
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 931,
+    "name": "Qubit Labs",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 932,
+    "name": "Gnosis",
+    "sector": "L1/L2 Protocol",
+    "country": null,
+    "website": "gnosis.io",
+    "aliases": [],
+    "description": "Ethereum-based blockchain ecosystem (est. 2015) — builds Gnosis Chain (an EVM-compatible L1) and is governed by GnosisDAO; originally created prediction-market infrastructure and spun off Gnosis Safe (now \"Safe\") as an independent company.",
+    "tag_ids": []
+  },
+  {
+    "id": 933,
+    "name": "Most Ecosystem",
+    "sector": "Investments",
+    "country": "Kazakhstan",
+    "website": "mostecosystem.com",
+    "aliases": [],
+    "description": "Central Asian venture capital and innovation-ecosystem builder headquartered in Astana, Kazakhstan — manages $40M+ across multiple venture funds (MOST Ventures Fund I, MOST Acceleration Fund, MOSTida VC), runs tech coworking spaces and an investor/business-angel community, and hosts the Central Eurasian Venture Forum.",
+    "tag_ids": [
+      78
+    ]
+  },
+  {
+    "id": 934,
+    "name": "Всеукраїнська Асоціація ОТГ",
+    "sector": "government",
+    "country": "Ukraine",
+    "website": "https://hromady.org",
+    "aliases": [],
+    "description": "Всеукраїнська асоціація об'єднаних територіальних громад (ВАОТГ) — асоціація органів місцевого самоврядування, що представляє інтереси ОТГ з питань економічного розвитку, публічних інвестицій, земельних відносин та розвитку сільських територій.",
+    "tag_ids": []
+  },
+  {
+    "id": 935,
+    "name": "Всеукраїнська асоціація громад",
+    "sector": "government",
+    "country": "Ukraine",
+    "website": "https://communities.org.ua",
+    "aliases": [],
+    "description": "Всеукраїнська асоціація громад (ВАГ) — асоціація органів місцевого самоврядування, що просуває розвиток сільських територій (європейський підхід LEADER), міжмуніципальне співробітництво та підтримку ветеранської політики на рівні громад.",
+    "tag_ids": []
+  },
+  {
+    "id": 937,
+    "name": "Lionwood.studio",
+    "sector": "Products",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 938,
+    "name": "Міністерство цифрової трансформації України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://thedigital.gov.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 939,
+    "name": "Верховна Рада України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://rada.gov.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 940,
+    "name": "Національний технічний університет «Харківський політехнічний інститут»",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 941,
+    "name": "Національний юридичний університет імені Ярослава Мудрого",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 942,
+    "name": "ПРП Ємельянівка",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 943,
+    "name": "Arkreen",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 944,
+    "name": "Regen Network",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 945,
+    "name": "Karma",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 946,
+    "name": "Silvi",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 947,
+    "name": "Sarafu Network",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 948,
+    "name": "Wallacea Trust",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 949,
+    "name": "Toloka",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 950,
+    "name": "iNaturalist",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 951,
+    "name": "Global Ecovillage Network",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Зв'язок з проєктом як українського вузла мережі не підтверджено.",
+    "tag_ids": []
+  },
+  {
+    "id": 952,
+    "name": "Ethereum Kyiv",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 953,
+    "name": "Maersk McKinney Møller",
+    "sector": "Investments",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Фінансує суміжну грантову програму; структура фінансування командою не уточнена.",
+    "tag_ids": []
+  },
+  {
+    "id": 954,
+    "name": "Artisan",
+    "sector": "Investments",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Фінансує суміжну грантову програму; структура фінансування командою не уточнена.",
+    "tag_ids": []
+  },
+  {
+    "id": 955,
+    "name": "localism-fund",
+    "sector": "Investments",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Фінансує суміжну грантову програму; структура фінансування командою не уточнена.",
+    "tag_ids": []
+  },
+  {
+    "id": 956,
+    "name": "Національний університет біоресурсів і природокористування України",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 957,
+    "name": "Дія",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": "https://diia.gov.ua",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 958,
+    "name": "Pinata",
+    "sector": null,
+    "country": null,
+    "website": "https://pinata.cloud",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 959,
+    "name": "BNB Smart Chain",
+    "sector": null,
+    "country": null,
+    "website": "https://www.bnbchain.org",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 960,
+    "name": "Харківський національний економічний університет імені Семена Кузнеця",
+    "sector": "Academy",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 961,
+    "name": "Yan Business Club",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 962,
+    "name": "Solana Mobile Hackathon",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 963,
+    "name": "Colosseum",
+    "sector": null,
+    "country": null,
+    "website": "https://colosseum.org",
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 964,
+    "name": "Solana Breakpoint",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Цільовий партнер для B2B-продукту (event analytics); партнерство ще не оформлене.",
+    "tag_ids": []
+  },
+  {
+    "id": 965,
+    "name": "Solana dApp Store",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 966,
+    "name": "De Novo",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Хмарний/GPU-провайдер, хостинг Lapathoniia в Україні на добровільних засадах.",
+    "tag_ids": []
+  },
+  {
+    "id": 967,
+    "name": "iHouse",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 968,
+    "name": "Міністерство фінансів України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 969,
+    "name": "Національна бібліотека імені Василя Стефаника",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 970,
+    "name": "Музей історії релігії",
+    "sector": "Products",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 971,
+    "name": "Державна архівна служба України",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": "Партнер проєкту «Мрія» (Дмитро Войтів) — потребує OCR-функціоналу.",
+    "tag_ids": []
+  },
+  {
+    "id": 972,
+    "name": "Kyivstar",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Розробник конкуруючої LLM «Сяйво»; відмовились ділитись доступом.",
+    "tag_ids": []
+  },
+  {
+    "id": 973,
+    "name": "Національний координаційний центр кібербезпеки",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 974,
+    "name": "Kyiv International Cyber Resilience Forum",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 975,
+    "name": "DAO Security Fund",
+    "sector": "Investments",
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Запропонований W3I як альтернативне джерело фінансування; команда раніше не була знайома з фондом.",
+    "tag_ids": []
+  },
+  {
+    "id": 976,
+    "name": "Huawei FusionSolar",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 977,
+    "name": "WeatherXM",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 978,
+    "name": "Geodnet",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": null,
+    "tag_ids": []
+  },
+  {
+    "id": 979,
+    "name": "Arcrim",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Близький конкурент із подібним продуктом (пристрої зелено-енергетичних сертифікатів), вже розгорнутий на 5 сайтах через мережу екопоселень; W3I запропонував співпрацю замість конкуренції.",
+    "tag_ids": []
+  },
+  {
+    "id": 980,
+    "name": "Мережа екопоселень (Україна)",
+    "sector": null,
+    "country": null,
+    "website": null,
+    "aliases": [],
+    "description": "Інший переможець гранту; співпрацює з Arcrim над пристроями зелено-енергетичних сертифікатів.",
+    "tag_ids": []
+  },
+  {
+    "id": 981,
+    "name": "MODUS X",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": "https://modusx.com",
+    "aliases": [],
+    "description": "DTEK's technology and innovation arm, driving AI adoption and digital transformation across energy operations (QUANTUM program).",
+    "tag_ids": []
+  },
+  {
+    "id": 982,
+    "name": "Unmanned Defense Systems Ukraine",
+    "sector": "business",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [],
+    "description": "Ukrainian office of Unmanned Defense Systems, a Lithuanian defense company.",
+    "tag_ids": []
+  },
+  {
+    "id": 983,
+    "name": "Electis",
+    "sector": "Products",
+    "country": "France",
+    "website": "https://electis.io",
+    "aliases": [],
+    "description": "End-to-end verifiable, open-source internet voting platform (homomorphic encryption + blockchain anchoring). Used by 1,700+ organizations in France for professional/corporate elections. Merging with US company Sequent (ran remote voting for Philippines presidential election). R&D partnerships with Microsoft ElectionGuard (Josh Benaloh) and Harvard Ash Center (Bruce Schneier). Exploring sovereign open-source internet voting infrastructure for Ukraine (veterans, displaced citizens, diaspora).",
+    "tag_ids": []
+  },
+  {
+    "id": 984,
+    "name": "COST Association",
+    "sector": "Donor",
+    "country": "Belgium",
+    "website": "https://www.cost.eu",
+    "aliases": [],
+    "description": "European Cooperation in Science and Technology — EU-funded programme financing research networks (COST Actions).",
+    "tag_ids": []
+  },
+  {
+    "id": 985,
+    "name": "Ministry of Agrarian Policy and Food of Ukraine",
+    "sector": "Gov Bodies",
+    "country": "Ukraine",
+    "website": null,
+    "aliases": [
+      "Мінагрополітики"
+    ],
+    "description": "Signatory of the June 2017 memorandum launching the State Land Cadastre blockchain pilot (source: TI Ukraine, CoinDesk).",
+    "tag_ids": []
+  }
+]

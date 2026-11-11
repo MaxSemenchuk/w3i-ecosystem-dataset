@@ -1,0 +1,28 @@
+name: validate
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: JSON parses and references resolve
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          d = {n: json.load(open(f"data/json/{n}.json")) for n in ["organizations","people","projects","tags"]}
+          ids = {n: {r["id"] for r in rows} for n, rows in d.items()}
+          refs = {"organization_ids":"organizations","project_ids":"projects","tag_ids":"tags","related_project_ids":"projects"}
+          bad = [(n, r["id"], k, i) for n, rows in d.items() for r in rows for k, t in refs.items() for i in r.get(k, []) if i not in ids[t]]
+          print("broken references:", bad[:10]); sys.exit(1 if bad else 0)
+          PY
+      - name: People carry no extra fields
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          allowed = {"id","name","organization_ids","project_ids","tag_ids"}
+          bad = [p["id"] for p in json.load(open("data/json/people.json")) if set(p) - allowed]
+          print("people with extra fields:", bad[:10]); sys.exit(1 if bad else 0)
+          PY
+      - name: No emails or wallets in data
+        run: |
+          ! grep -rEl '[A-Za-z0-9._+-]+@[A-Za-z0-9-]+\.[A-Za-z]{2,}|0x[a-fA-F0-9]{40}' data/

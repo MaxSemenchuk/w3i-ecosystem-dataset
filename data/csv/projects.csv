@@ -1,0 +1,51 @@
+id,name,type,aliases,website,description,organization_ids,related_project_ids,tag_ids
+2,IEEE UA DLT Forum 2025,Event,,,,3; 12; 21; 22; 27; 28; 33; 34; 39; 41; 42; 49; 50; 62; 68; 78; 81; 86; 90; 91; 96; 157; 167; 201; 410; 442,12; 19; 23; 38,1; 2; 3; 4; 5; 6; 7; 8; 9
+3,Crypto Literacy and Blockchain Fundamentals,Course,Освітній проєкт з криптограмотності та блокчейну,,,6; 11; 27; 40; 46; 53; 55; 64; 65; 80; 94; 98; 123; 135; 167; 191; 231; 439; 442,6; 17; 23; 33; 34; 35,
+4,Manifesto: Web3 for Digital Economy Ukraine,Research,,,,27; 442,14; 15; 18,
+5,Web3 for Ukraine: Talk to Founders,Event,,,,27; 442,11,
+6,Introduction to Web3 Careers,Course,Вступ до кар'єри у веб3,,,27; 442; 475,,
+9,AidForUkraine,Pilot,,,,222; 223,37; 39; 40,
+10,Strategic Foresight - Industry Vision 2030,Research,,,,27; 40; 49; 50; 67; 111; 142; 157; 442; 454; 459,21,
+11,Web3 for Ukraine: Upgrading Public Services,Research,,,,27; 40; 84; 442,15; 24; 25; 26; 27; 29,
+12,EthKyiv Conference,Event,,,,57; 98,,
+13,Metahistory Gallery,Pilot,,,,84,,
+14,VASP Law,Policy,,,,131; 145; 173; 442; 587,10; 15; 18,
+15,E-Hryvnia (CBDC),Policy,,,,131; 139; 599,18,
+17,Blockchain + AI Sandbox,Policy,,,,27; 135; 442; 758,,
+18,Cambridge Workshops for Regulators,Course,,,,7; 27; 48; 131; 145; 173; 442,,
+19,Future of Digital Democracy,Research,,,,27; 41; 461,10; 14; 20; 21; 36,1; 5; 7; 8
+20,W3I DAO,Pilot,W3I DAO – наш спільний фонд,,"A 9-month experiment in community-governed funding on Gardens DAO (Celo, conviction voting). 4 proposals funded, ~$1,373 distributed, then sunset in favor of a sensemaking-first model.",27; 312; 390; 396; 500,30,
+21,Decentralization as an Economic Coordination Model,Research,,,"Assessing how decentralization as a coordination and governance model can improve resilience, transparency, and economic performance across key sectors of Ukraine's economy.",27; 33; 442; 887,,1; 2; 4; 5; 6; 7; 9
+23,Web3 Education Circle,Circle,Освіта у Web3; Asvito Web3 Meetup,,,,33,
+24,SETAM / OpenMarket Auctions,Pilot,,,,142; 588; 589; 590,,
+25,State Land Cadastre Pilot,Pilot,,,,142; 495; 591; 592; 985,26,7
+26,Vehicle IDs Registry Pilot,Pilot,,,,174; 483; 590; 593; 594,,
+27,TradeLens Container Logistics,Pilot,,,,113; 408; 595; 596,28,6; 10
+28,FSC Supply Chain Traceability,Pilot,,,,210; 597; 600,,6; 10
+29,Blockchain Estate Registry,Pilot,,,,16; 82; 84; 442; 454; 588,,
+30,Talent Connect,Pilot,,https://w3i.network/connect,Program connecting junior Web3 talent with Ukrainian companies. Includes the 2024 Internship Program (with Ethereum Foundation support) and the ongoing Talent Connect matching platform.,21; 27; 40; 42; 49; 50; 57; 80; 81; 123; 135; 150; 157; 167; 174; 201; 204; 222; 223; 410; 431; 442; 477; 480; 498; 551; 630; 786; 801,31; 33,
+31,DeJob 2.0,Event,,,,,,
+32,Solana Startup Terminal,Course,Superteam Course; Superteam Web3 Course 2026; Курс Superteam,,,27; 475; 801,,2
+33,Web3 for Business: Foundations,Course,Web3 для бізнесу,,,27; 796,,2
+34,Blockchain Technologies Certificate,Course,Блокчейн-технології; BTCP; NaUKMA Blockchain Course,,,564,,
+35,IT Generation,Course,,,"A transformative tech education program offering $1M USDT in full scholarships to 2,200 Ukrainians affected by job loss due to war. Launched June 2022 by Ministry of Digital Transformation, Binance Charity, and Lviv IT Cluster. Ran Sept 2022 – July 2023. 1,877 students completed training (85% completion rate). 147 graduates found IT employment within 3 weeks. Courses: FrontEnd (378), QA (299), UI/UX Design (231), Python (214), PM (182), Java (152), JavaScript (151), HR (105), Digital Marketing (88), Business Analysis (46), Blockchain (31). Funded by Binance Charity via BNB Chain and Binance Pay. Supported by USAID Competitive Economy of Ukraine program and UNDP Digital, Inclusive, Accessible project with Sweden.",46; 50; 442; 502; 873,,
+36,Web3 Resilience Lab,program,,https://web3lab.org.ua/,"All-Ukrainian grant program at the intersection of civic tech and Web3. Public voting selected 10 winning teams — veterans, students, and resilience-focused founders — building trust verification, impact verification, and digital security tools for Ukraine. Winners join a 6-month mentorship program with Ukrainian and international experts, backed by $125,000 in funding across the cohort ($12,500 per team).",27; 50; 442; 758; 873,,29; 37; 38; 55
+37,UNHCR Blockchain Cash Assistance Ukraine,Pilot,,,"First-of-its-kind integrated blockchain payment solution powered by the Stellar network for digital cash distribution to internally displaced persons and war-affected people in Ukraine. UNHCR distributes USDC via Vibrant wallets, recipients cash out at MoneyGram locations. Piloted in Kyiv, Lviv, Vinnytsia in December 2022. https://www.unhcr.org/ua/en/news/unhcr-launches-pilot-cash-based-intervention-using-blockchain-technology-humanitarian-payments",442; 599; 872; 883; 884; 885; 886,39,
+38,IEEE UA DLT Forum 2023,Event,,,"Inaugural Ukrainian DLT Forum (2023) — first scientific conference on blockchain and Web3 in Ukraine, co-organized by Web3 Institute and IEEE Ukraine Section. Full recordings on YouTube.",27; 33; 40; 41; 121; 442; 881; 889; 890,12,
+39,UNDP AltFinLab,,,,,502,,
+40,UNDP Acceleration Labs,,,,,502,,
+41,EGAP,,,https://www.egap.cz/en/introduction,,590,,55
+42,Dream,,,https://dream.gov.ua/,,926,,
+43,Hromadas Collab Research,Research,,,,27; 934; 935,44,
+44,Civic Tech Lab,Research,,,Civic Tech Lab Ukraine — W3I × RadicalxChange × Bridge/KSE; відкрита civic-tech та deliberative-democracy лабораторія для українських CDTO. Пілот червень–грудень 2026.,27; 41; 211; 442; 461,,
+45,RewardChain,Startup,,,"EAS-атестації досягнень інженерів (Base) — незмінний, портативний доказ виконаної роботи, що переживає мобілізацію/релокацію та належить самому інженеру, а не роботодавцю.",27; 50; 873,36,
+46,GLeX,Startup,,https://hortisa71.github.io/glex_demo/,"Модульна AI правова система на базі Graph-RAG і концепції «Law as Code» — структурує норми як граф взаємозв'язків, надає достовірні відповіді для громадян, ветеранів, юристів і законотворців.",27; 50; 938; 939; 940,36,
+47,GEN Ukraine Impact,Startup,,https://ecoimpact.genukraine.com.ua/,"Web3-платформа, яка вимірює, верифікує та токенізує екологічні впливи українських громад (зелена енергетика, висадка дерев, біорізноманіття, карбонові кредити). Мережа 60+ громад генерує дані через IoT-оракули та блокчейн-протоколи.",27; 42; 50; 394; 942; 943; 944; 945; 946; 947; 948; 949; 950; 951; 952; 953; 954; 955,36,
+48,Hartolit,Startup,,https://hartolit-agro.com,Точне внесення ЗЗР агродронами з блокчейн-верифікацією кожної обробки на BNB Smart Chain через NFT «Цифровий паспорт поля». Соціальна місія — працевлаштування ветеранів як сертифікованих UAV-операторів.,27; 50; 938; 956; 957; 958; 959,36,
+49,ArtIScope,Startup,,,"AI-платформа для вибору оптимальних юрисдикцій для бізнесу — об'єднує дані про податки, регулювання, інвестиційний і web3-клімат різних країн у зручному діалоговому форматі.",27; 50; 873; 938; 960; 961,36,
+50,NextVibe,Startup,,https://nextvibe.io,"Перший IRL Networking Layer на Solana — кожне знайомство, івент та взаємодія підтверджені фізично через NFC та геолокацію; учасники будують доказову репутацію.",27; 50; 475; 801; 962; 963; 964; 965,36,
+51,Lapathoniia,Startup,,https://lapathoniia.top/,"API-платформа для українських LLM (MamayLM, LapaLLM), фізично розміщена в Україні — доступ для розробників, бізнесу та держустанов без передачі даних за кордон. Закрита бета.",27; 50; 785; 873; 938; 966; 967; 968; 969; 970; 971; 972,36,
+52,FOMO,Startup,,https://fomo.cx,"Освітньо-аналітичний проєкт у сфері криптоактивів і цифрової безпеки та організатор CryptoTrack у межах Kyiv International Cyber Resilience Forum — виявлення ризиків, протидія шахрайству, кіберстійкість.",3; 27; 50; 352; 938; 973; 974; 975,36,
+53,CryptoWay,Startup,,https://cryptoway.pro/,"Безкоштовна екосистема крипто-інструментів для українців — Crypto Calendar (аірдропи, лістинги, launchpool) та Staking Monitor (порівняння APR на 17 біржах).",27; 50; 61; 873; 938,36,
+54,Solar DePin,Startup,,https://solardepin.net/,"Web3/DePIN платформа для збору та верифікації енергетичних і погодних даних із сонячних електростанцій — децентралізована мережа реальних даних (інвертори Huawei FusionSolar, WeatherXM, Geodnet).",27; 50; 873; 976; 977; 978; 979; 980,36,
+55,RELINK² (COST Action CA23114),Research,RELINK2; Relink²; CA23114,https://relink2.eu/,"COST Action ""Regaining linkage? Digital technologies improving civic engagement, political organisations and democracy"" ([number removed]–[number removed] MC members from 36 countries; WG1 theory, WG2 methods, WG3 empirics, WG4 engagement & dissemination. W3I (Max Semenchuk) is a WG member since June 2026.",984,19; 44,1; 2; 9; 31

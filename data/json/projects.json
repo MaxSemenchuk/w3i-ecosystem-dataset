@@ -1,0 +1,1037 @@
+[
+  {
+    "id": 2,
+    "name": "IEEE UA DLT Forum 2025",
+    "type": "Event",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      3,
+      12,
+      21,
+      22,
+      27,
+      28,
+      33,
+      34,
+      39,
+      41,
+      42,
+      49,
+      50,
+      62,
+      68,
+      78,
+      81,
+      86,
+      90,
+      91,
+      96,
+      157,
+      167,
+      201,
+      410,
+      442
+    ],
+    "related_project_ids": [
+      12,
+      19,
+      23,
+      38
+    ],
+    "tag_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Crypto Literacy and Blockchain Fundamentals",
+    "type": "Course",
+    "aliases": [
+      "Освітній проєкт з криптограмотності та блокчейну"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      6,
+      11,
+      27,
+      40,
+      46,
+      53,
+      55,
+      64,
+      65,
+      80,
+      94,
+      98,
+      123,
+      135,
+      167,
+      191,
+      231,
+      439,
+      442
+    ],
+    "related_project_ids": [
+      6,
+      17,
+      23,
+      33,
+      34,
+      35
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 4,
+    "name": "Manifesto: Web3 for Digital Economy Ukraine",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      442
+    ],
+    "related_project_ids": [
+      14,
+      15,
+      18
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 5,
+    "name": "Web3 for Ukraine: Talk to Founders",
+    "type": "Event",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      442
+    ],
+    "related_project_ids": [
+      11
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 6,
+    "name": "Introduction to Web3 Careers",
+    "type": "Course",
+    "aliases": [
+      "Вступ до кар'єри у веб3"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      442,
+      475
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 9,
+    "name": "AidForUkraine",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      222,
+      223
+    ],
+    "related_project_ids": [
+      37,
+      39,
+      40
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 10,
+    "name": "Strategic Foresight - Industry Vision 2030",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      40,
+      49,
+      50,
+      67,
+      111,
+      142,
+      157,
+      442,
+      454,
+      459
+    ],
+    "related_project_ids": [
+      21
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 11,
+    "name": "Web3 for Ukraine: Upgrading Public Services",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      40,
+      84,
+      442
+    ],
+    "related_project_ids": [
+      15,
+      24,
+      25,
+      26,
+      27,
+      29
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 12,
+    "name": "EthKyiv Conference",
+    "type": "Event",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      57,
+      98
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 13,
+    "name": "Metahistory Gallery",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      84
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 14,
+    "name": "VASP Law",
+    "type": "Policy",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      131,
+      145,
+      173,
+      442,
+      587
+    ],
+    "related_project_ids": [
+      10,
+      15,
+      18
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 15,
+    "name": "E-Hryvnia (CBDC)",
+    "type": "Policy",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      131,
+      139,
+      599
+    ],
+    "related_project_ids": [
+      18
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 17,
+    "name": "Blockchain + AI Sandbox",
+    "type": "Policy",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      135,
+      442,
+      758
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 18,
+    "name": "Cambridge Workshops for Regulators",
+    "type": "Course",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      7,
+      27,
+      48,
+      131,
+      145,
+      173,
+      442
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 19,
+    "name": "Future of Digital Democracy",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      41,
+      461
+    ],
+    "related_project_ids": [
+      10,
+      14,
+      20,
+      21,
+      36
+    ],
+    "tag_ids": [
+      1,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "name": "W3I DAO",
+    "type": "Pilot",
+    "aliases": [
+      "W3I DAO – наш спільний фонд"
+    ],
+    "website": null,
+    "description": "A 9-month experiment in community-governed funding on Gardens DAO (Celo, conviction voting). 4 proposals funded, ~$1,373 distributed, then sunset in favor of a sensemaking-first model.",
+    "organization_ids": [
+      27,
+      312,
+      390,
+      396,
+      500
+    ],
+    "related_project_ids": [
+      30
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 21,
+    "name": "Decentralization as an Economic Coordination Model",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": "Assessing how decentralization as a coordination and governance model can improve resilience, transparency, and economic performance across key sectors of Ukraine's economy.",
+    "organization_ids": [
+      27,
+      33,
+      442,
+      887
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Web3 Education Circle",
+    "type": "Circle",
+    "aliases": [
+      "Освіта у Web3",
+      "Asvito Web3 Meetup"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [],
+    "related_project_ids": [
+      33
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 24,
+    "name": "SETAM / OpenMarket Auctions",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      142,
+      588,
+      589,
+      590
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 25,
+    "name": "State Land Cadastre Pilot",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      142,
+      495,
+      591,
+      592,
+      985
+    ],
+    "related_project_ids": [
+      26
+    ],
+    "tag_ids": [
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Vehicle IDs Registry Pilot",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      174,
+      483,
+      590,
+      593,
+      594
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 27,
+    "name": "TradeLens Container Logistics",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      113,
+      408,
+      595,
+      596
+    ],
+    "related_project_ids": [
+      28
+    ],
+    "tag_ids": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": 28,
+    "name": "FSC Supply Chain Traceability",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      210,
+      597,
+      600
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Blockchain Estate Registry",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      16,
+      82,
+      84,
+      442,
+      454,
+      588
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 30,
+    "name": "Talent Connect",
+    "type": "Pilot",
+    "aliases": [],
+    "website": "https://w3i.network/connect",
+    "description": "Program connecting junior Web3 talent with Ukrainian companies. Includes the 2024 Internship Program (with Ethereum Foundation support) and the ongoing Talent Connect matching platform.",
+    "organization_ids": [
+      21,
+      27,
+      40,
+      42,
+      49,
+      50,
+      57,
+      80,
+      81,
+      123,
+      135,
+      150,
+      157,
+      167,
+      174,
+      201,
+      204,
+      222,
+      223,
+      410,
+      431,
+      442,
+      477,
+      480,
+      498,
+      551,
+      630,
+      786,
+      801
+    ],
+    "related_project_ids": [
+      31,
+      33
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 31,
+    "name": "DeJob 2.0",
+    "type": "Event",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 32,
+    "name": "Solana Startup Terminal",
+    "type": "Course",
+    "aliases": [
+      "Superteam Course",
+      "Superteam Web3 Course 2026",
+      "Курс Superteam"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      475,
+      801
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      2
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Web3 for Business: Foundations",
+    "type": "Course",
+    "aliases": [
+      "Web3 для бізнесу"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      796
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      2
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Blockchain Technologies Certificate",
+    "type": "Course",
+    "aliases": [
+      "Блокчейн-технології",
+      "BTCP",
+      "NaUKMA Blockchain Course"
+    ],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      564
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 35,
+    "name": "IT Generation",
+    "type": "Course",
+    "aliases": [],
+    "website": null,
+    "description": "A transformative tech education program offering $1M USDT in full scholarships to 2,200 Ukrainians affected by job loss due to war. Launched June 2022 by Ministry of Digital Transformation, Binance Charity, and Lviv IT Cluster. Ran Sept 2022 – July 2023. 1,877 students completed training (85% completion rate). 147 graduates found IT employment within 3 weeks. Courses: FrontEnd (378), QA (299), UI/UX Design (231), Python (214), PM (182), Java (152), JavaScript (151), HR (105), Digital Marketing (88), Business Analysis (46), Blockchain (31). Funded by Binance Charity via BNB Chain and Binance Pay. Supported by USAID Competitive Economy of Ukraine program and UNDP Digital, Inclusive, Accessible project with Sweden.",
+    "organization_ids": [
+      46,
+      50,
+      442,
+      502,
+      873
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 36,
+    "name": "Web3 Resilience Lab",
+    "type": "program",
+    "aliases": [],
+    "website": "https://web3lab.org.ua/",
+    "description": "All-Ukrainian grant program at the intersection of civic tech and Web3. Public voting selected 10 winning teams — veterans, students, and resilience-focused founders — building trust verification, impact verification, and digital security tools for Ukraine. Winners join a 6-month mentorship program with Ukrainian and international experts, backed by $125,000 in funding across the cohort ($12,500 per team).",
+    "organization_ids": [
+      27,
+      50,
+      442,
+      758,
+      873
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      29,
+      37,
+      38,
+      55
+    ]
+  },
+  {
+    "id": 37,
+    "name": "UNHCR Blockchain Cash Assistance Ukraine",
+    "type": "Pilot",
+    "aliases": [],
+    "website": null,
+    "description": "First-of-its-kind integrated blockchain payment solution powered by the Stellar network for digital cash distribution to internally displaced persons and war-affected people in Ukraine. UNHCR distributes USDC via Vibrant wallets, recipients cash out at MoneyGram locations. Piloted in Kyiv, Lviv, Vinnytsia in December 2022. https://www.unhcr.org/ua/en/news/unhcr-launches-pilot-cash-based-intervention-using-blockchain-technology-humanitarian-payments",
+    "organization_ids": [
+      442,
+      599,
+      872,
+      883,
+      884,
+      885,
+      886
+    ],
+    "related_project_ids": [
+      39
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 38,
+    "name": "IEEE UA DLT Forum 2023",
+    "type": "Event",
+    "aliases": [],
+    "website": null,
+    "description": "Inaugural Ukrainian DLT Forum (2023) — first scientific conference on blockchain and Web3 in Ukraine, co-organized by Web3 Institute and IEEE Ukraine Section. Full recordings on YouTube.",
+    "organization_ids": [
+      27,
+      33,
+      40,
+      41,
+      121,
+      442,
+      881,
+      889,
+      890
+    ],
+    "related_project_ids": [
+      12
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 39,
+    "name": "UNDP AltFinLab",
+    "type": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      502
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 40,
+    "name": "UNDP Acceleration Labs",
+    "type": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      502
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 41,
+    "name": "EGAP",
+    "type": null,
+    "aliases": [],
+    "website": "https://www.egap.cz/en/introduction",
+    "description": null,
+    "organization_ids": [
+      590
+    ],
+    "related_project_ids": [],
+    "tag_ids": [
+      55
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dream",
+    "type": null,
+    "aliases": [],
+    "website": "https://dream.gov.ua/",
+    "description": null,
+    "organization_ids": [
+      926
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 43,
+    "name": "Hromadas Collab Research",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "organization_ids": [
+      27,
+      934,
+      935
+    ],
+    "related_project_ids": [
+      44
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 44,
+    "name": "Civic Tech Lab",
+    "type": "Research",
+    "aliases": [],
+    "website": null,
+    "description": "Civic Tech Lab Ukraine — W3I × RadicalxChange × Bridge/KSE; відкрита civic-tech та deliberative-democracy лабораторія для українських CDTO. Пілот червень–грудень 2026.",
+    "organization_ids": [
+      27,
+      41,
+      211,
+      442,
+      461
+    ],
+    "related_project_ids": [],
+    "tag_ids": []
+  },
+  {
+    "id": 45,
+    "name": "RewardChain",
+    "type": "Startup",
+    "aliases": [],
+    "website": null,
+    "description": "EAS-атестації досягнень інженерів (Base) — незмінний, портативний доказ виконаної роботи, що переживає мобілізацію/релокацію та належить самому інженеру, а не роботодавцю.",
+    "organization_ids": [
+      27,
+      50,
+      873
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 46,
+    "name": "GLeX",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://hortisa71.github.io/glex_demo/",
+    "description": "Модульна AI правова система на базі Graph-RAG і концепції «Law as Code» — структурує норми як граф взаємозв'язків, надає достовірні відповіді для громадян, ветеранів, юристів і законотворців.",
+    "organization_ids": [
+      27,
+      50,
+      938,
+      939,
+      940
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 47,
+    "name": "GEN Ukraine Impact",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://ecoimpact.genukraine.com.ua/",
+    "description": "Web3-платформа, яка вимірює, верифікує та токенізує екологічні впливи українських громад (зелена енергетика, висадка дерев, біорізноманіття, карбонові кредити). Мережа 60+ громад генерує дані через IoT-оракули та блокчейн-протоколи.",
+    "organization_ids": [
+      27,
+      42,
+      50,
+      394,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952,
+      953,
+      954,
+      955
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 48,
+    "name": "Hartolit",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://hartolit-agro.com",
+    "description": "Точне внесення ЗЗР агродронами з блокчейн-верифікацією кожної обробки на BNB Smart Chain через NFT «Цифровий паспорт поля». Соціальна місія — працевлаштування ветеранів як сертифікованих UAV-операторів.",
+    "organization_ids": [
+      27,
+      50,
+      938,
+      956,
+      957,
+      958,
+      959
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 49,
+    "name": "ArtIScope",
+    "type": "Startup",
+    "aliases": [],
+    "website": null,
+    "description": "AI-платформа для вибору оптимальних юрисдикцій для бізнесу — об'єднує дані про податки, регулювання, інвестиційний і web3-клімат різних країн у зручному діалоговому форматі.",
+    "organization_ids": [
+      27,
+      50,
+      873,
+      938,
+      960,
+      961
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 50,
+    "name": "NextVibe",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://nextvibe.io",
+    "description": "Перший IRL Networking Layer на Solana — кожне знайомство, івент та взаємодія підтверджені фізично через NFC та геолокацію; учасники будують доказову репутацію.",
+    "organization_ids": [
+      27,
+      50,
+      475,
+      801,
+      962,
+      963,
+      964,
+      965
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 51,
+    "name": "Lapathoniia",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://lapathoniia.top/",
+    "description": "API-платформа для українських LLM (MamayLM, LapaLLM), фізично розміщена в Україні — доступ для розробників, бізнесу та держустанов без передачі даних за кордон. Закрита бета.",
+    "organization_ids": [
+      27,
+      50,
+      785,
+      873,
+      938,
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 52,
+    "name": "FOMO",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://fomo.cx",
+    "description": "Освітньо-аналітичний проєкт у сфері криптоактивів і цифрової безпеки та організатор CryptoTrack у межах Kyiv International Cyber Resilience Forum — виявлення ризиків, протидія шахрайству, кіберстійкість.",
+    "organization_ids": [
+      3,
+      27,
+      50,
+      352,
+      938,
+      973,
+      974,
+      975
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 53,
+    "name": "CryptoWay",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://cryptoway.pro/",
+    "description": "Безкоштовна екосистема крипто-інструментів для українців — Crypto Calendar (аірдропи, лістинги, launchpool) та Staking Monitor (порівняння APR на 17 біржах).",
+    "organization_ids": [
+      27,
+      50,
+      61,
+      873,
+      938
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 54,
+    "name": "Solar DePin",
+    "type": "Startup",
+    "aliases": [],
+    "website": "https://solardepin.net/",
+    "description": "Web3/DePIN платформа для збору та верифікації енергетичних і погодних даних із сонячних електростанцій — децентралізована мережа реальних даних (інвертори Huawei FusionSolar, WeatherXM, Geodnet).",
+    "organization_ids": [
+      27,
+      50,
+      873,
+      976,
+      977,
+      978,
+      979,
+      980
+    ],
+    "related_project_ids": [
+      36
+    ],
+    "tag_ids": []
+  },
+  {
+    "id": 55,
+    "name": "RELINK² (COST Action CA23114)",
+    "type": "Research",
+    "aliases": [
+      "RELINK2",
+      "Relink²",
+      "CA23114"
+    ],
+    "website": "https://relink2.eu/",
+    "description": "COST Action \"Regaining linkage? Digital technologies improving civic engagement, political organisations and democracy\" ([number removed]–[number removed] MC members from 36 countries; WG1 theory, WG2 methods, WG3 empirics, WG4 engagement & dissemination. W3I (Max Semenchuk) is a WG member since June 2026.",
+    "organization_ids": [
+      984
+    ],
+    "related_project_ids": [
+      19,
+      44
+    ],
+    "tag_ids": [
+      1,
+      2,
+      9,
+      31
+    ]
+  }
+]

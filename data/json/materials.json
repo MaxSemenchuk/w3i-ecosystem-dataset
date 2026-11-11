@@ -1,0 +1,962 @@
+[
+  {
+    "slug": "2023-becoming-the-web3-institute",
+    "title": "2023: Becoming The Web3 Institute",
+    "type": "post",
+    "format": "report",
+    "date": "2024-01-15",
+    "tags": [
+      "Report",
+      "Education / DeSci",
+      "Industry"
+    ],
+    "excerpt": "Foundational year: crypto literacy course for 20,000 students, Talk to Founders research, inaugural DLT Forum, and Innovation Sandbox.",
+    "url": "https://w3i.network/learn/2023-becoming-the-web3-institute",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "2024-shaping-web3-talent-ecosystem",
+    "title": "2024: Shaping Ukraine's Web3 Talent Ecosystem",
+    "type": "post",
+    "format": "report",
+    "date": "2025-01-15",
+    "tags": [
+      "Report",
+      "Education / DeSci",
+      "Talent",
+      "Industry"
+    ],
+    "excerpt": "36,000 students in Intro to Web3 Careers, Innovation Sandbox with MinDigital, internship program launch, and blockchain integration research.",
+    "url": "https://w3i.network/learn/2024-shaping-web3-talent-ecosystem",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "2025-integrated-talent-strategy",
+    "title": "Integrated Talent Strategy 2025",
+    "type": "post",
+    "format": "report",
+    "date": "2026-01-15",
+    "tags": [
+      "Report",
+      "Talent",
+      "Education / DeSci"
+    ],
+    "excerpt": "Strategies for 2025 human capital development. 50+ students, 24+ organizations, 30+ matches.",
+    "url": "https://w3i.network/learn/2025-integrated-talent-strategy",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "ai-and-blockchain-current-challenges-and-opportunities",
+    "title": "AI and Blockchain: Current Challenges and Opportunities",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Research"
+    ],
+    "excerpt": "Entrepreneur | Researcher | Author | Speaker | Chair, IEEE Blockchain Technical Community",
+    "url": "https://w3i.network/learn/ai-and-blockchain-current-challenges-and-opportunities",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "h_8ikidLKgs"
+  },
+  {
+    "slug": "blockchain-ai-sandbox",
+    "title": "Blockchain + AI Sandbox",
+    "type": "post",
+    "format": "initiative",
+    "date": "2025-01-15",
+    "tags": [
+      "Industry",
+      "Policy / Legal",
+      "AI",
+      "Government"
+    ],
+    "excerpt": "Ukraine's first government-supported sandbox where AI and blockchain startups get expert support to scale, shaping innovation-friendly regulation.",
+    "url": "https://w3i.network/learn/blockchain-ai-sandbox",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "blockchain-and-cryptocurrency-empowering-ukraines-reconstruction",
+    "title": "Blockchain and Cryptocurrency: Empowering Ukraine's Reconstruction",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Digital Democracy",
+      "Industry",
+      "Policy / Legal",
+      "Public goods"
+    ],
+    "excerpt": "Bitcoin Pioneer, Netflix Doc \"Banking on Bitcoin\", Bitcoin Center 2013, Founder of Bitcoin and Blockchain Centers Worldwide.",
+    "url": "https://w3i.network/learn/blockchain-and-cryptocurrency-empowering-ukraines-reconstruction",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "KXWP5SYnFiA"
+  },
+  {
+    "slug": "blockchain-based-investments-since-2015",
+    "title": "Blockchain-based investments since 2015",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Energy",
+      "Industry",
+      "Policy / Legal"
+    ],
+    "excerpt": "Partner at DFJDragon Fund/ DraperDragon Fund",
+    "url": "https://w3i.network/learn/blockchain-based-investments-since-2015",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "z8rOjyJOIOc"
+  },
+  {
+    "slug": "blockchain-perspectives-from-austria",
+    "title": "Blockchain Perspectives from Austria",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Energy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Senior Researcher & Area Manager @ ABC Research",
+    "url": "https://w3i.network/learn/blockchain-perspectives-from-austria",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "GkBPabxPIXE"
+  },
+  {
+    "slug": "conceptual-framework-for-building-decentralized-electricity-markets-based-on-derivative-instruments-using-blockchain-technology",
+    "title": "Conceptual Framework for Building Decentralized Electricity Markets Based on Derivative Instruments Using Blockchain Technology",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Energy",
+      "Industry",
+      "Research"
+    ],
+    "excerpt": "Postgraduate Researcher in National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”, Quant and Blockchain Developer",
+    "url": "https://w3i.network/learn/conceptual-framework-for-building-decentralized-electricity-markets-based-on-derivative-instruments-using-blockchain-technology",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "dGoxNJUC2Y8"
+  },
+  {
+    "slug": "crypto-literacy-and-blockchain-fundamentals",
+    "title": "Crypto Literacy & Blockchain Fundamentals",
+    "type": "post",
+    "format": "course",
+    "date": "2023-06-01",
+    "tags": [
+      "Courses",
+      "Education / DeSci",
+      "Talent"
+    ],
+    "excerpt": "A comprehensive Diia.Osvita course covering cryptocurrency and blockchain basics through videos, articles, and practical exercises.",
+    "url": "https://w3i.network/learn/crypto-literacy-and-blockchain-fundamentals",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "crypto-regulation-in-ukraine-building-a-smart-jurisdiction-during-wartime",
+    "title": "Crypto Regulation in Ukraine, Building a Smart Jurisdiction During Wartime",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Industry",
+      "Policy / Legal"
+    ],
+    "excerpt": "Lead Lawyer at The Project Office at the Ministry of Digital Transformation of Ukraine | Blockchain Expert | Legal Engineer | Crypto Advisor",
+    "url": "https://w3i.network/learn/crypto-regulation-in-ukraine-building-a-smart-jurisdiction-during-wartime",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "zsS87sq_S2U"
+  },
+  {
+    "slug": "dao-experiment-case-study-and-lessons-learned",
+    "title": "DAO Experiment: Case Study & Lessons Learned",
+    "type": "post",
+    "format": "report",
+    "date": "2026-03-15",
+    "tags": [
+      "Report",
+      "Governance",
+      "DAO"
+    ],
+    "excerpt": "Post-mortem of the W3I DAO — 9 months on Gardens (Celo, conviction voting), ~25 members, 4 funded proposals, ~$1,373 distributed. What worked, what didn't, and the path from token-weighted voting to sensemaking-first governance.",
+    "url": "https://w3i.network/learn/dao-experiment-case-study-and-lessons-learned",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "decentralized-ai",
+    "title": "Decentralized AI",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Industry"
+    ],
+    "excerpt": "Technologist in Web3 & AI",
+    "url": "https://w3i.network/learn/decentralized-ai",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "jyu4e1e_l3c"
+  },
+  {
+    "slug": "desci-decentralized-science-publishing-and-the-future-of-research-evaluation",
+    "title": "DeSci: Decentralized Science Publishing and the Future of Research Evaluation",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Education / DeSci",
+      "ID / ZK / Privacy",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "NASU, Web3 Institute",
+    "url": "https://w3i.network/learn/desci-decentralized-science-publishing-and-the-future-of-research-evaluation",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "s7G5gH6Wt6E"
+  },
+  {
+    "slug": "digital-sovereignty-to-rebuild-ukraine",
+    "title": "Digital Sovereignty to Rebuild Ukraine",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Energy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Policy / Legal",
+      "Public goods"
+    ],
+    "excerpt": "The European Decentralisation Institute, Bentley University",
+    "url": "https://w3i.network/learn/digital-sovereignty-to-rebuild-ukraine",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "tNe8fuZ80Q4"
+  },
+  {
+    "slug": "dream-of-transparent-secure-cex",
+    "title": "Dream of Transparent & Secure CEX",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Industry",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "CEO at HAI Group Co-Founder and Chairman at Hacken",
+    "url": "https://w3i.network/learn/dream-of-transparent-secure-cex",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "OOSAjLyHbXY"
+  },
+  {
+    "slug": "ecosystem-workshops-for-regulators",
+    "title": "Ecosystem Workshops for Regulators",
+    "type": "post",
+    "format": "program",
+    "date": "2024-05-01",
+    "tags": [
+      "Policy / Legal",
+      "Education / DeSci",
+      "Government"
+    ],
+    "excerpt": "Two workshops prepared with Cambridge Centre for Alternative Finance and the Swiss government, briefing 40+ Ukrainian regulators on the Web3 ecosystem.",
+    "url": "https://w3i.network/learn/ecosystem-workshops-for-regulators",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "future-of-digital-democracy-in-ukraine-and-worldwide",
+    "title": "Future of Digital Democracy in Ukraine and Worldwide",
+    "type": "talk",
+    "format": "meetup",
+    "date": "2025-11-15",
+    "tags": [
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Policy / Legal",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Future of Digital Democracy in Ukraine and Worldwide",
+    "url": "https://w3i.network/learn/future-of-digital-democracy-in-ukraine-and-worldwide",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": null
+  },
+  {
+    "slug": "future-ready-digital-ukraine-2026-2027",
+    "title": "Future Ready Digital Ukraine 2026-2027",
+    "type": "post",
+    "format": "plan",
+    "date": "2026-03-01",
+    "tags": [
+      "Plan",
+      "Talent",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "Strategic vision for strengthening talent pipelines, cross-sector dialogue, and scalable funnels for Ukraine's digital future.",
+    "url": "https://w3i.network/learn/future-ready-digital-ukraine-2026-2027",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "governing-ecosystems-applications-in-architecture-and-resilience",
+    "title": "Governing ecosystems - applications in architecture and resilience",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Digital Democracy",
+      "Industry",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Technology Partner at PwC | MIT CISR Industry Research Fellow | ISO TC/307 Blockchain Standards Committee",
+    "url": "https://w3i.network/learn/governing-ecosystems-applications-in-architecture-and-resilience",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "hVTNqTkPJL8"
+  },
+  {
+    "slug": "ieee-ua-dlt-forum-2023",
+    "title": "IEEE UA DLT Forum 2023",
+    "type": "post",
+    "format": "event",
+    "date": "2023-12-07",
+    "tags": [
+      "Report",
+      "Industry",
+      "Policy / Legal",
+      "Education / DeSci"
+    ],
+    "excerpt": "Inaugural Ukrainian DLT Forum (2023) — the first scientific conference on blockchain and Web3 in Ukraine, co-organized by Web3 Institute and IEEE Ukraine Section.",
+    "url": "https://w3i.network/learn/ieee-ua-dlt-forum-2023",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "ieee-ua-dlt-forum-2025",
+    "title": "IEEE UA DLT Forum 2025",
+    "type": "post",
+    "format": "event",
+    "date": "2025-11-11",
+    "tags": [
+      "Report",
+      "Industry",
+      "Policy / Legal",
+      "Digital Democracy",
+      "Infrastructure"
+    ],
+    "excerpt": "Takeaways from the November 2025 forum — how Web3 can make Ukraine's rebuild faster, more transparent, and more resilient across capital, democracy, trust, and interoperability.",
+    "url": "https://w3i.network/learn/ieee-ua-dlt-forum-2025",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "impact-of-decentralization-ukraine",
+    "title": "Impact of Decentralization in Key Sectors of Ukraine's Digital Economy",
+    "type": "talk",
+    "format": "panel",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Digital Democracy",
+      "Energy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "A panel from UA DLT Forum 2025 on mapping decentralization opportunities across Ukraine's digital economy — where DLT genuinely improves already-digitized systems.",
+    "url": "https://w3i.network/learn/impact-of-decentralization-ukraine",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "dIOIpEkAOXw"
+  },
+  {
+    "slug": "inspiring-radical-imagination-and-enabling-collective-action",
+    "title": "Inspiring radical imagination and enabling collective action",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Digital Democracy",
+      "Policy / Legal",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Executive Director, RadicalxChange",
+    "url": "https://w3i.network/learn/inspiring-radical-imagination-and-enabling-collective-action",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "yObJJMellxg"
+  },
+  {
+    "slug": "introduction-to-web3-careers",
+    "title": "Introduction to Web3 Careers",
+    "type": "post",
+    "format": "course",
+    "date": "2024-02-01",
+    "tags": [
+      "Courses",
+      "Education / DeSci",
+      "Talent",
+      "Industry"
+    ],
+    "excerpt": "Освітній серіал з 10 епізодів про веб3-професії — стартапи, розробку, менеджмент, маркетинг, фінанси, інвестиції, право, блокчейн-аналітику, медіа. Створено разом з Дія.Освіта та Solana Foundation.",
+    "url": "https://w3i.network/learn/introduction-to-web3-careers",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": "l7PA08fJfJ4"
+  },
+  {
+    "slug": "leveraging-blockchain-for-ethical-ai-mitigating-digital-threats-and-strengthening-societal-resilience",
+    "title": "Leveraging Blockchain for Ethical AI: Mitigating Digital Threats and Strengthening Societal Resilience",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "ID / ZK / Privacy",
+      "Research"
+    ],
+    "excerpt": "IEEE Finland Blockchain Group",
+    "url": "https://w3i.network/learn/leveraging-blockchain-for-ethical-ai-mitigating-digital-threats-and-strengthening-societal-resilience",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "8zgCoJz96sE"
+  },
+  {
+    "slug": "lf-decentralized-trust-meetup",
+    "title": "LF Decentralized Trust Meetup",
+    "type": "talk",
+    "format": "meetup",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "National and Ecosystem Approaches To Digital Identity and Wallets",
+    "url": "https://w3i.network/learn/lf-decentralized-trust-meetup",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "rosRxpUn2CM"
+  },
+  {
+    "slug": "manifesto",
+    "title": "Manifesto: Web3 for Digital Economy Ukraine",
+    "type": "post",
+    "format": "manifesto",
+    "date": "2024-06-01",
+    "tags": [
+      "Manifesto",
+      "Policy / Legal",
+      "Digital Democracy",
+      "Industry"
+    ],
+    "excerpt": "Four priority themes for Web3's role in Ukraine's digital economy — recovery, trust, ecosystems, and impact.",
+    "url": "https://w3i.network/learn/manifesto",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "masters-certificate-program-blockchain-technologies-at-naukma-how-to-integrate-business-demands-into-educational-process",
+    "title": "Master's certificate program Blockchain technologies at NaUKMA - how to integrate business demands  into educational process",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Education / DeSci",
+      "Industry",
+      "Research"
+    ],
+    "excerpt": "Senior lecturer at faculty of informatics NaUKMA, CEO BRKS Labs LLC, Senior blockchain solution architect, Solidity, Rust, Move software engineer.",
+    "url": "https://w3i.network/learn/masters-certificate-program-blockchain-technologies-at-naukma-how-to-integrate-business-demands-into-educational-process",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "Iqscmm-H5Ls"
+  },
+  {
+    "slug": "onchain-attestation",
+    "title": "Ончейн-аттестація W3I",
+    "type": "post",
+    "format": "guide",
+    "date": "2026-04-24",
+    "tags": [
+      "Education / DeSci",
+      "Talent"
+    ],
+    "excerpt": "Переносний credential на твій wallet, що фіксує пройдені W3I-курси як EAS-аттестат на Base. Одна транзакція, газ платить W3I.",
+    "url": "https://w3i.network/learn/onchain-attestation",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "open-source-collaborative-innovation-in-shaping-the-digital-foundations-of-resilient-economies",
+    "title": "Open Source: collaborative innovation in shaping the digital foundations of resilient economies",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Education / DeSci",
+      "Energy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "General Manager of Decentralized Technologies at the Linux Foundation and Executive Director of LF Decentralized Trust",
+    "url": "https://w3i.network/learn/open-source-collaborative-innovation-in-shaping-the-digital-foundations-of-resilient-economies",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "q1KorVtTiYM"
+  },
+  {
+    "slug": "pioneering-ethical-biometrics-blockchain-and-ai-for-global-pension-verification-excellence",
+    "title": "Pioneering Ethical Biometrics, Blockchain, and AI for Global Pension Verification Excellence",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Policy / Legal",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Deputy Chief Executive at United Nations Joint Staff Pension Fund",
+    "url": "https://w3i.network/learn/pioneering-ethical-biometrics-blockchain-and-ai-for-global-pension-verification-excellence",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "sK0DuMZyj-M"
+  },
+  {
+    "slug": "preliminary-studies-on-decentralized-communities-in-conflicts-and-societal-prosperity",
+    "title": "Preliminary Studies on decentralized communities in Conflicts and Societal Prosperity",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "University of Washington",
+    "url": "https://w3i.network/learn/preliminary-studies-on-decentralized-communities-in-conflicts-and-societal-prosperity",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "2qofYyQ5heI"
+  },
+  {
+    "slug": "rebuild-trust-technology-and-the-future-of-governance",
+    "title": "Rebuild: Trust, Technology, and the Future of Governance",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Public goods"
+    ],
+    "excerpt": "Transforming digital identity into a tool for individual freedom. Maker of http://freedomtool.org/ and Unforgettable.app",
+    "url": "https://w3i.network/learn/rebuild-trust-technology-and-the-future-of-governance",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "n3gO-Dtr9SM"
+  },
+  {
+    "slug": "rebuilding-for-resilience-onchain",
+    "title": "Rebuilding for Resilience Onchain",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "ID / ZK / Privacy",
+      "Industry",
+      "Policy / Legal"
+    ],
+    "excerpt": "Principal & Global Blockchain Leader, Ernst & Young",
+    "url": "https://w3i.network/learn/rebuilding-for-resilience-onchain",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "MvGXItGa1ZM"
+  },
+  {
+    "slug": "rebuilding-trust-from-ukraines-web3-manifesto-to-taiwans-digital-democracy",
+    "title": "Rebuilding Trust: From Ukraine’s Web3 Manifesto to Taiwan’s Digital Democracy",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Digital Democracy",
+      "ID / ZK / Privacy",
+      "Policy / Legal"
+    ],
+    "excerpt": "Legislator At-Large of Taiwan Parliament, Vice Co-chair of Legislative-yuan US-Taiwan Caucus (LUC), Founder and Chair of Emerging Technology Exchange Association (ETEA)",
+    "url": "https://w3i.network/learn/rebuilding-trust-from-ukraines-web3-manifesto-to-taiwans-digital-democracy",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "ifPnIq3cT5U"
+  },
+  {
+    "slug": "regulatory-updates-to-spark-ideas",
+    "title": "Regulatory updates to spark ideas",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "ID / ZK / Privacy",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "Director and co-founder of the European Crypto Initiative (EUCI)",
+    "url": "https://w3i.network/learn/regulatory-updates-to-spark-ideas",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "gRcBJ7tydxY"
+  },
+  {
+    "slug": "sandbox-for-ai-and-blockchain-startups",
+    "title": "Sandbox for AI and blockchain startups",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Policy / Legal",
+      "Public goods",
+      "Research"
+    ],
+    "excerpt": "Ministry of Digital Transformation of Ukraine, Head of Sandbox for AI and blockchain startups",
+    "url": "https://w3i.network/learn/sandbox-for-ai-and-blockchain-startups",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "tKNZRSLHnkc"
+  },
+  {
+    "slug": "strategic-foresight-industry-vision-2030",
+    "title": "Strategic Foresight – Industry Vision 2030",
+    "type": "post",
+    "format": "research",
+    "date": "2021-09-01",
+    "tags": [
+      "Research",
+      "Report",
+      "Policy / Legal",
+      "Industry",
+      "Government"
+    ],
+    "excerpt": "Case study of Ukraine's first state-led foresight for the Virtual Assets industry — 100+ participants, 70+ page report, and 11 working groups.",
+    "url": "https://w3i.network/learn/strategic-foresight-industry-vision-2030",
+    "pdf": "https://w3i.network/Report_Foresight_2030.pdf",
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "strategic-projects-in-the-region",
+    "title": "Strategic projects in the region",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Energy",
+      "ID / ZK / Privacy",
+      "Industry",
+      "Policy / Legal"
+    ],
+    "excerpt": "Regional Head CEE/CIS/AFRICA @Binance, EMBA @LBS",
+    "url": "https://w3i.network/learn/strategic-projects-in-the-region",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "ayqB2nZ3ZTI"
+  },
+  {
+    "slug": "talent-matching",
+    "title": "Talent Matching",
+    "type": "post",
+    "format": "program",
+    "date": "2024-06-01",
+    "tags": [
+      "Talent",
+      "Industry",
+      "Education / DeSci"
+    ],
+    "excerpt": "W3I's program connecting junior Web3 talent with companies, evolved into the Talent Connect platform for profiles, catalog, and automated introductions.",
+    "url": "https://w3i.network/learn/talent-matching",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "techno-legal-guardrails-for-generative-ai-and-blockchain-toward-digital-sovereignty-in-critical-infrastructure",
+    "title": "Techno-Legal Guardrails for (Generative) AI and Blockchain, Toward Digital Sovereignty in Critical Infrastructure",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Energy",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "Digital Engineering for Future Technologies and Legal Tech Expert (LL M.), University of York",
+    "url": "https://w3i.network/learn/techno-legal-guardrails-for-generative-ai-and-blockchain-toward-digital-sovereignty-in-critical-infrastructure",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "JWcuhebs1Zc"
+  },
+  {
+    "slug": "tokenization-a-new-frontier-for-ukraines-digital-recovery",
+    "title": "Tokenization: A New Frontier for Ukraine’s Digital Recovery",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Energy",
+      "Industry",
+      "Policy / Legal",
+      "Public goods"
+    ],
+    "excerpt": "Juscutum",
+    "url": "https://w3i.network/learn/tokenization-a-new-frontier-for-ukraines-digital-recovery",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "H9CqhsJCKRA"
+  },
+  {
+    "slug": "web3-capital-allocation-tools",
+    "title": "Web3 Capital Allocation Tools",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Digital Democracy",
+      "Industry",
+      "Policy / Legal",
+      "Public goods"
+    ],
+    "excerpt": "Public goods funding / Co-Founder at Giveth, q/acc & Unicorn.eth",
+    "url": "https://w3i.network/learn/web3-capital-allocation-tools",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "Yb0vnf00CiQ"
+  },
+  {
+    "slug": "web3-education-meetup",
+    "title": "Web3 Education Meetup",
+    "type": "post",
+    "format": "event",
+    "date": "2025-11-12",
+    "tags": [
+      "Education / DeSci",
+      "Talent",
+      "Industry"
+    ],
+    "excerpt": "Academic meetup at IEEE UA DLT Forum 2025 bringing university educators, researchers, and industry together to shape Web3 curricula and internships.",
+    "url": "https://w3i.network/learn/web3-education-meetup",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "web3-educators-researchers-students",
+    "title": "Web3 Educators, Researchers & Students",
+    "type": "talk",
+    "format": "meetup",
+    "date": "2025-11-15",
+    "tags": [
+      "AI",
+      "Academia",
+      "Education / DeSci",
+      "Industry",
+      "Research"
+    ],
+    "excerpt": "Web3 Educators, Researchers & Students",
+    "url": "https://w3i.network/learn/web3-educators-researchers-students",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "iGLRar8wHZU"
+  },
+  {
+    "slug": "web3-for-ukraine-talk-to-founders",
+    "title": "Web3 for Ukraine: Talk to Founders",
+    "type": "post",
+    "format": "research",
+    "date": "2023-09-01",
+    "tags": [
+      "Research",
+      "Report",
+      "Industry",
+      "Policy / Legal"
+    ],
+    "excerpt": "Report based on interviews with Ukrainian Web3 founders mapping challenges and opportunities for the country's Web3 space and digital economy.",
+    "url": "https://w3i.network/learn/web3-for-ukraine-talk-to-founders",
+    "pdf": "https://w3i.network/W3I_Web3_for_Ukraine__Talk_to_Founders.pdf",
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "web3-for-ukraine-upgrading-public-services",
+    "title": "Web3 for Ukraine: Upgrading Public Services",
+    "type": "post",
+    "format": "research",
+    "date": "2024-05-01",
+    "tags": [
+      "Research",
+      "Report",
+      "Government",
+      "Policy / Legal",
+      "Infrastructure"
+    ],
+    "excerpt": "Analysis of Web3 adoption in Ukraine's public services — reviewing global literature, assessing pilot projects, and recommending pathways for strategic blockchain integration.",
+    "url": "https://w3i.network/learn/web3-for-ukraine-upgrading-public-services",
+    "pdf": "https://w3i.network/W3I_Web3_for_Ukraine__Upgrading_Public_Services.pdf",
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  },
+  {
+    "slug": "web3-institute-results-plans-invitations",
+    "title": "Web3 Institute Results, Plans & Invitations",
+    "type": "talk",
+    "format": "solo",
+    "date": "2025-11-15",
+    "tags": [
+      "Academia",
+      "Industry",
+      "Policy / Legal",
+      "Research"
+    ],
+    "excerpt": "Program Director @Web3 Institute, Advisor to the Ministry of Digital Transformation of Ukraine",
+    "url": "https://w3i.network/learn/web3-institute-results-plans-invitations",
+    "pdf": null,
+    "event": "UA DLT Forum 2025",
+    "event_url": "/project/ieee-ua-dlt-forum-2025",
+    "youtube": "pxjz89bk0Cg"
+  },
+  {
+    "slug": "web3-resilience-lab-10-winners",
+    "title": "10 українських Web3 та digital-проєктів отримають підтримку в межах Web3 Лабораторії Стійкості",
+    "type": "post",
+    "format": "program",
+    "date": "2026-08-06",
+    "tags": [
+      "Talent",
+      "Industry",
+      "Government"
+    ],
+    "excerpt": "За результатами публічного голосування визначено 10 переможців грантової програми Web3 Лабораторія Стійкості — від Мінцифри, Binance, Львівського ІТ Кластера та Web3 Institute.",
+    "url": "https://w3i.network/learn/web3-resilience-lab-10-winners",
+    "pdf": null,
+    "event": null,
+    "event_url": null,
+    "youtube": null
+  }
+]

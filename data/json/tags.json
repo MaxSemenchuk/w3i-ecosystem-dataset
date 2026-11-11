@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "name": "Digital Democracy",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 2,
+    "name": "Academia",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 3,
+    "name": "AI / ML",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 4,
+    "name": "Energy",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 5,
+    "name": "Identity & Privacy",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 6,
+    "name": "Industry",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 7,
+    "name": "Policy & Regulation",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 8,
+    "name": "Public Goods",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 9,
+    "name": "Research",
+    "category": "Theme",
+    "aliases": []
+  },
+  {
+    "id": 10,
+    "name": "Supply Chain",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 11,
+    "name": "Development",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 12,
+    "name": "Marketing",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 13,
+    "name": "Management",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 14,
+    "name": "Business Development",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 15,
+    "name": "Investments",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 16,
+    "name": "Blockchain Analytics",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 17,
+    "name": "Finance",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 18,
+    "name": "Media",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 19,
+    "name": "Law",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 20,
+    "name": "Startups",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 21,
+    "name": "Design",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 22,
+    "name": "Educator",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 27,
+    "name": "DeFi",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 28,
+    "name": "Blockchain",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 29,
+    "name": "Policy",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 30,
+    "name": "Fintech",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 31,
+    "name": "Governance",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 32,
+    "name": "Regulation",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 33,
+    "name": "HR",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 36,
+    "name": "Infrastructure",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 37,
+    "name": "Education",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 38,
+    "name": "Community",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 39,
+    "name": "Product",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 44,
+    "name": "Tokenization",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 45,
+    "name": "Capital Markets",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 46,
+    "name": "Interoperability",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 47,
+    "name": "Digital Transformation",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 48,
+    "name": "DePIN",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 49,
+    "name": "Identity",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 50,
+    "name": "Sustainability",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 51,
+    "name": "AI",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 52,
+    "name": "Security",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 55,
+    "name": "Civic Tech",
+    "category": "Theme",
+    "aliases": [
+      "civic tech",
+      "civictech",
+      "громадські технології"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Deep Tech",
+    "category": null,
+    "aliases": []
+  },
+  {
+    "id": 78,
+    "name": "Investor",
+    "category": null,
+    "aliases": []
+  }
+]
