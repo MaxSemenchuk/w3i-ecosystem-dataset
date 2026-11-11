@@ -2,7 +2,7 @@
   "title": "W3I Ecosystem Dataset: a relational map of Ukraine's Web3, academic and public-sector network",
   "upload_type": "dataset",
   "description": "<p>Open dataset of 831 organizations, 644 people (name and affiliation only), 50 projects, 45 topic tags and 50 published materials, linked by ids. Built by the Web3 Institute (W3I) from forums, education programmes and research since 2023. Includes a data dictionary, reproducible analysis scripts and a data paper. The data is the network visible to W3I, not a census.</p>",
-  "creators": [{"name": "Semenchuk, Max", "affiliation": "Web3 Institute"}],
+  "creators": [{"name": "Semenchuk, Max", "affiliation": "Web3 Institute", "orcid": "0009-0000-6907-2537"}],
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",

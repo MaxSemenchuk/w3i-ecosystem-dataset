@@ -6,6 +6,7 @@ authors:
   - family-names: Semenchuk
     given-names: Max
     affiliation: "Web3 Institute"
+    orcid: "https://orcid.org/0009-0000-6907-2537"
 license: CC-BY-4.0
 version: 1.0.0
 keywords: [web3, blockchain, ecosystem mapping, network analysis, Ukraine, open data]
